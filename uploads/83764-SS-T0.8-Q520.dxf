@@ -1,0 +1,16886 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1021
+  9
+$ACADMAINTVER
+ 70
+50
+  9
+$DWGCODEPAGE
+  3
+ansi_1252
+  9
+$TITLE
+  1
+
+  9
+$SUBJECT
+  1
+
+  9
+$AUTHOR
+  1
+
+  9
+$KEYWORDS
+  1
+
+  9
+$COMMENTS
+  1
+
+  9
+$LASTSAVEDBY
+  1
+
+  9
+$REVISIONNUMBER
+  1
+
+  9
+$INSBASE
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$EXTMIN
+ 10
+5382.7803303194487
+ 20
+15061.86301228521
+ 30
+0
+  9
+$EXTMAX
+ 10
+5421.2114353797815
+ 20
+15093.14980453008
+ 30
+0
+  9
+$LIMMIN
+ 10
+0
+ 20
+0
+  9
+$LIMMAX
+ 10
+1000
+ 20
+1000
+  9
+$SNAPMODE
+ 70
+0
+  9
+$SNAPUNIT
+ 10
+1
+ 20
+1
+  9
+$SNAPBASE
+ 10
+0
+ 20
+0
+  9
+$SNAPANG
+ 50
+0
+  9
+$SNAPSTYLE
+ 70
+0
+  9
+$SNAPISOPAIR
+ 70
+0
+  9
+$ORTHOMODE
+ 70
+1
+  9
+$REGENMODE
+ 70
+1
+  9
+$FILLMODE
+ 70
+1
+  9
+$QTEXTMODE
+ 70
+0
+  9
+$MIRRTEXT
+ 70
+0
+  9
+$LTSCALE
+ 40
+1
+  9
+$OSMODE
+ 70
+0
+  9
+$ATTMODE
+ 70
+1
+  9
+$TEXTSIZE
+ 40
+0.2
+  9
+$TRACEWID
+ 40
+0.05
+  9
+$TEXTSTYLE
+  7
+Standard
+  9
+$CLAYER
+  8
+0
+  9
+$CELTYPE
+  6
+ByLayer
+  9
+$CECOLOR
+ 62
+256
+  9
+$CELTSCALE
+ 40
+1
+  9
+$DISPSILH
+ 70
+0
+  9
+$DIMSCALE
+ 40
+1
+  9
+$DIMASZ
+ 40
+0.5
+  9
+$DIMEXO
+ 40
+3
+  9
+$DIMDLI
+ 40
+10
+  9
+$DIMRND
+ 40
+0
+  9
+$DIMDLE
+ 40
+0
+  9
+$DIMEXE
+ 40
+0.5
+  9
+$DIMTP
+ 40
+0
+  9
+$DIMTM
+ 40
+0
+  9
+$DIMTXT
+ 40
+2
+  9
+$DIMCEN
+ 40
+0.09
+  9
+$DIMTSZ
+ 40
+0
+  9
+$DIMTOL
+ 70
+0
+  9
+$DIMLIM
+ 70
+0
+  9
+$DIMTIH
+ 70
+1
+  9
+$DIMTOH
+ 70
+1
+  9
+$DIMSE1
+ 70
+0
+  9
+$DIMSE2
+ 70
+0
+  9
+$DIMTAD
+ 70
+0
+  9
+$DIMZIN
+ 70
+0
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+1
+  9
+$DIMSHO
+ 70
+1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+1
+  9
+$DIMALTD
+ 70
+2
+  9
+$DIMALTF
+ 40
+0.03937
+  9
+$DIMLFAC
+ 40
+1
+  9
+$DIMTOFL
+ 70
+0
+  9
+$DIMTVP
+ 40
+0
+  9
+$DIMTIX
+ 70
+0
+  9
+$DIMSOXD
+ 70
+0
+  9
+$DIMSAH
+ 70
+0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+Standard
+  9
+$DIMCLRD
+ 70
+0
+  9
+$DIMCLRE
+ 70
+0
+  9
+$DIMCLRT
+ 70
+0
+  9
+$DIMTFAC
+ 40
+1
+  9
+$DIMGAP
+ 40
+0.5
+  9
+$DIMJUST
+ 70
+0
+  9
+$DIMSD1
+ 70
+0
+  9
+$DIMSD2
+ 70
+0
+  9
+$DIMTOLJ
+ 70
+1
+  9
+$DIMTZIN
+ 70
+0
+  9
+$DIMALTZ
+ 70
+0
+  9
+$DIMALTTZ
+ 70
+0
+  9
+$DIMUPT
+ 70
+0
+  9
+$DIMDEC
+ 70
+2
+  9
+$DIMTDEC
+ 70
+2
+  9
+$DIMALTU
+ 70
+2
+  9
+$DIMALTTD
+ 70
+2
+  9
+$DIMTXSTY
+  7
+Standard
+  9
+$DIMAUNIT
+ 70
+0
+  9
+$DIMADEC
+ 70
+0
+  9
+$DIMALTRND
+ 40
+0
+  9
+$DIMAZIN
+ 70
+0
+  9
+$DIMDSEP
+ 70
+46
+  9
+$DIMATFIT
+ 70
+3
+  9
+$DIMFRAC
+ 70
+0
+  9
+$DIMLDRBLK
+  1
+
+  9
+$DIMLUNIT
+ 70
+2
+  9
+$DIMLWD
+ 70
+-2
+  9
+$DIMLWE
+ 70
+-2
+  9
+$DIMFXL
+ 40
+1
+  9
+$DIMFXLON
+ 70
+0
+  9
+$DIMJOGANG
+ 40
+0.78539816339744828
+  9
+$DIMTFILL
+ 70
+0
+  9
+$DIMTFILLCLR
+ 70
+0
+  9
+$DIMARCSYM
+ 70
+0
+  9
+$LUNITS
+ 70
+2
+  9
+$LUPREC
+ 70
+4
+  9
+$SKETCHINC
+ 40
+0.1
+  9
+$FILLETRAD
+ 40
+0
+  9
+$AUNITS
+ 70
+0
+  9
+$AUPREC
+ 70
+0
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0
+  9
+$PELEVATION
+ 40
+0
+  9
+$THICKNESS
+ 40
+0
+  9
+$LIMCHECK
+ 70
+0
+  9
+$CHAMFERA
+ 40
+0
+  9
+$CHAMFERB
+ 40
+0
+  9
+$CHAMFERC
+ 40
+0
+  9
+$CHAMFERD
+ 40
+0
+  9
+$SKPOLY
+ 70
+0
+  9
+$TDCREATE
+ 40
+2455441.4270983334
+  9
+$TDUCREATE
+ 40
+2455441.1979316669
+  9
+$TDUPDATE
+ 40
+2459546.4477328355
+  9
+$TDUUPDATE
+ 40
+2459546.218566169
+  9
+$TDINDWG
+ 40
+0.29312013888888888
+  9
+$TDUSRTIMER
+ 40
+0.2930978587962963
+  9
+$USRTIMER
+ 70
+1
+  9
+$ANGBASE
+ 50
+0
+  9
+$ANGDIR
+ 70
+0
+  9
+$PDMODE
+ 70
+2
+  9
+$PDSIZE
+ 40
+0
+  9
+$PLINEWID
+ 40
+0
+  9
+$SPLFRAME
+ 70
+0
+  9
+$SPLINETYPE
+ 70
+6
+  9
+$SPLINESEGS
+ 70
+8
+  9
+$HANDSEED
+  5
+1A3
+  9
+$SURFTAB1
+ 70
+6
+  9
+$SURFTAB2
+ 70
+6
+  9
+$SURFTYPE
+ 70
+6
+  9
+$SURFU
+ 70
+6
+  9
+$SURFV
+ 70
+6
+  9
+$UCSORG
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSXDIR
+ 10
+1
+ 20
+0
+ 30
+0
+  9
+$UCSYDIR
+ 10
+0
+ 20
+1
+ 30
+0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UCSORTHOVIEW
+ 70
+0
+  9
+$UCSORGTOP
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSORGBOTTOM
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSORGLEFT
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSORGRIGHT
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSORGFRONT
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSORGBACK
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSORG
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSXDIR
+ 10
+1
+ 20
+0
+ 30
+0
+  9
+$PUCSYDIR
+ 10
+0
+ 20
+1
+ 30
+0
+  9
+$PUCSORTHOREF
+  2
+
+  9
+$PUCSORTHOVIEW
+ 70
+0
+  9
+$PUCSORGTOP
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSORGBOTTOM
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSORGLEFT
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSORGRIGHT
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSORGFRONT
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSORGBACK
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$USERI1
+ 70
+0
+  9
+$USERI2
+ 70
+0
+  9
+$USERI3
+ 70
+0
+  9
+$USERI4
+ 70
+0
+  9
+$USERI5
+ 70
+0
+  9
+$USERR1
+ 40
+0
+  9
+$USERR2
+ 40
+0
+  9
+$USERR3
+ 40
+0
+  9
+$USERR4
+ 40
+0
+  9
+$USERR5
+ 40
+0
+  9
+$WORLDVIEW
+ 70
+1
+  9
+$SHADEDGE
+ 70
+3
+  9
+$SHADEDIF
+ 70
+70
+  9
+$TILEMODE
+ 70
+1
+  9
+$MAXACTVP
+ 70
+64
+  9
+$PINSBASE
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PLIMCHECK
+ 70
+0
+  9
+$PEXTMIN
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PEXTMAX
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PLIMMAX
+ 10
+12
+ 20
+9
+  9
+$PLIMMIN
+ 10
+0
+ 20
+0
+  9
+$UNITMODE
+ 70
+0
+  9
+$VISRETAIN
+ 70
+1
+  9
+$PLINEGEN
+ 70
+0
+  9
+$PSLTSCALE
+ 70
+1
+  9
+$TREEDEPTH
+ 70
+3020
+  9
+$CMLSTYLE
+  2
+STANDARD
+  9
+$CMLJUST
+ 70
+0
+  9
+$CMLSCALE
+ 40
+1
+  9
+$PROXYGRAPHICS
+ 70
+1
+  9
+$MEASUREMENT
+ 70
+0
+  9
+$CELWEIGHT
+370
+-1
+  9
+$ENDCAPS
+280
+0
+  9
+$JOINSTYLE
+280
+0
+  9
+$LWDISPLAY
+290
+0
+  9
+$INSUNITS
+ 70
+1
+  9
+$HYPERLINKBASE
+  1
+
+  9
+$XEDIT
+290
+1
+  9
+$CEPSNTYPE
+380
+0
+  9
+$PSTYLEMODE
+290
+1
+  9
+$FINGERPRINTGUID
+  2
+{8ED30855-A772-426C-B43B-AD1E9ED94F78}
+  9
+$VERSIONGUID
+  2
+{997F9935-940A-43A4-9B98-883419FF5046}
+  9
+$EXTNAMES
+290
+1
+  9
+$PSVPSCALE
+ 40
+0
+  9
+$CSHADOW
+280
+0
+  9
+$SHADOWPLANELOCATION
+ 40
+0
+  9
+$SORTENTS
+280
+127
+  9
+$INDEXCTL
+280
+0
+  9
+$XCLIPFRAME
+290
+1
+  9
+$HALOGAP
+280
+0
+  9
+$OBSCOLOR
+ 70
+0
+  9
+$OBSLTYPE
+280
+0
+  9
+$INTERSECTIONDISPLAY
+280
+0
+  9
+$INTERSECTIONCOLOR
+ 70
+0
+  9
+$DIMASSOC
+280
+2
+  9
+$PROJECTNAME
+  1
+
+  9
+$INTERFERECOLOR
+ 62
+1
+  9
+$DIMLTYPE
+  6
+
+  9
+$DIMLTEX1
+  6
+
+  9
+$DIMLTEX2
+  6
+
+  9
+$STYLESHEET
+  1
+
+  9
+$OLESTARTUP
+290
+     0
+  9
+$HIDETEXT
+280
+     1
+  9
+$CAMERADISPLAY
+290
+     0
+  9
+$LENSLENGTH
+ 40
+50.0
+  9
+$CAMERAHEIGHT
+ 40
+0.0
+  9
+$STEPSPERSEC
+ 40
+2.0
+  9
+$STEPSIZE
+ 40
+6.0
+  9
+$3DDWFPREC
+ 40
+2.0
+  9
+$PSOLWIDTH
+ 40
+0.25
+  9
+$PSOLHEIGHT
+ 40
+4.0
+  9
+$LOFTANG1
+ 40
+1.570796326794896
+  9
+$LOFTANG2
+ 40
+1.570796326794896
+  9
+$LOFTMAG1
+ 40
+0.0
+  9
+$LOFTMAG2
+ 40
+0.0
+  9
+$LOFTPARAM
+ 70
+     7
+  9
+$LOFTNORMALS
+280
+     1
+  9
+$LATITUDE
+ 40
+0.0
+  9
+$LONGITUDE
+ 40
+0.0
+  9
+$NORTHDIRECTION
+ 40
+0.0
+  9
+$TIMEZONE
+ 70
+ -8000
+  9
+$LIGHTGLYPHDISPLAY
+280
+     1
+  9
+$TILEMODELIGHTSYNCH
+280
+     1
+  9
+$SOLIDHIST
+280
+     1
+  9
+$SHOWHIST
+280
+     1
+  9
+$DWFFRAME
+280
+     2
+  9
+$DGNFRAME
+280
+     0
+  9
+$REALWORLDSCALE
+290
+     1
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+DICTIONARYVAR
+  2
+AcDbDictionaryVar
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+DIMASSOC
+  2
+AcDbDimAssoc
+  3
+"AcDbDimAssoc|Product Desc:     AcDim ARX App For Dimension|Company:          Autodesk, Inc.|WEB Address:      www.autodesk.com"
+ 90
+0
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+SORTENTSTABLE
+  2
+AcDbSortentsTable
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+TABLESTYLE
+  2
+AcDbTableStyle
+  3
+ObjectDBX Classes
+ 90
+4095
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+MATERIAL
+  2
+AcDbMaterial
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+VISUALSTYLE
+  2
+AcDbVisualStyle
+  3
+ObjectDBX Classes
+ 90
+4095
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+SCALE
+  2
+AcDbScale
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+MLEADERSTYLE
+  2
+AcDbMLeaderStyle
+  3
+ACDB_MLEADERSTYLE_CLASS
+ 90
+4095
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+CELLSTYLEMAP
+  2
+AcDbCellStyleMap
+  3
+ObjectDBX Classes
+ 90
+1152
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+ACIDBLOCKREFERENCE
+  2
+AcIdBlockReference
+  3
+AcIdViewObj|Product: Inventor Drawing Enabler|Company: Autodesk|Website: www.autodesk.com
+ 90
+1
+ 91
+1
+280
+0
+281
+1
+  0
+CLASS
+  1
+RASTERVARIABLES
+  2
+AcDbRasterVariables
+  3
+ISM
+ 90
+0
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+IMAGEDEF
+  2
+AcDbRasterImageDef
+  3
+ISM
+ 90
+0
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+IMAGEDEF_REACTOR
+  2
+AcDbRasterImageDefReactor
+  3
+ISM
+ 90
+1
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+IMAGE
+  2
+AcDbRasterImage
+  3
+ISM
+ 90
+127
+ 91
+1
+280
+0
+281
+1
+  0
+CLASS
+  1
+ACAD_EVALUATION_GRAPH
+  2
+AcDbEvalGraph
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKPOINTPARAMETER
+  2
+AcDbBlockPointParameter
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKBASEPOINTPARAMETER
+  2
+AcDbBlockBasepointParameter
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKLOOKUPPARAMETER
+  2
+AcDbBlockLookupParameter
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKVISIBILITYPARAMETER
+  2
+AcDbBlockVisibilityParameter
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKPROPERTIESTABLE
+  2
+AcDbBlockPropertiesTable
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKPOLARPARAMETER
+  2
+AcDbBlockPolarParameter
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKROTATIONPARAMETER
+  2
+AcDbBlockRotationParameter
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKLINEARPARAMETER
+  2
+AcDbBlockLinearParameter
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKXYPARAMETER
+  2
+AcDbBlockXYParameter
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKFLIPPARAMETER
+  2
+AcDbBlockFlipParameter
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKALIGNMENTPARAMETER
+  2
+AcDbBlockAlignmentParameter
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKROTATEACTION
+  2
+AcDbBlockRotateAction
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKSCALEACTION
+  2
+AcDbBlockScaleAction
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKARRAYACTION
+  2
+AcDbBlockArrayAction
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKFLIPACTION
+  2
+AcDbBlockFlipAction
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKLOOKUPACTION
+  2
+AcDbBlockLookupAction
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKMOVEACTION
+  2
+AcDbBlockMoveAction
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKPOLARSTRETCHACTION
+  2
+AcDbBlockPolarStretchAction
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKSTRETCHACTION
+  2
+AcDbBlockStretchAction
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKALIGNMENTGRIP
+  2
+AcDbBlockAlignmentGrip
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKFLIPGRIP
+  2
+AcDbBlockFlipGrip
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+ACDB_BLOCKREPRESENTATION_DATA
+  2
+AcDbBlockRepresentationData
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+ACDB_DYNAMICBLOCKPURGEPREVENTER_VERSION
+  2
+AcDbDynamicBlockPurgePreventer
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKLINEARGRIP
+  2
+AcDbBlockLinearGrip
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKLOOKUPGRIP
+  2
+AcDbBlockLookupGrip
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKPOLARGRIP
+  2
+AcDbBlockPolarGrip
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKPROPERTIESTABLEGRIP
+  2
+AcDbBlockPropertiesTableGrip
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKROTATIONGRIP
+  2
+AcDbBlockRotationGrip
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKVISIBILITYGRIP
+  2
+AcDbBlockVisibilityGrip
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKXYGRIP
+  2
+AcDbBlockXYGrip
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+BLOCKGRIPLOCATIONCOMPONENT
+  2
+AcDbBlockGripExpr
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+CLASS
+  1
+ACDB_DYNAMICBLOCKPROXYNODE
+  2
+AcDbDynamicBlockProxyNode
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+1
+280
+0
+281
+0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+1
+  0
+VPORT
+  5
+161
+330
+8
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*Active
+ 70
+0
+ 10
+0
+ 20
+0
+ 11
+1
+ 21
+1
+ 12
+5408.6136636558513
+ 22
+15077.58424397479
+ 13
+0
+ 23
+0
+ 14
+0.5
+ 24
+0.5
+ 15
+0.5
+ 25
+0.5
+ 16
+0
+ 26
+0
+ 36
+1
+ 17
+0
+ 27
+0
+ 37
+0
+ 40
+31.63500555989776
+ 41
+2.9217002237136458
+ 42
+50
+ 43
+0
+ 44
+0
+ 50
+0
+ 51
+0
+ 71
+0
+ 72
+1000
+ 73
+1
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+0
+ 78
+0
+281
+0
+ 65
+1
+110
+0
+120
+0
+130
+0
+111
+1
+121
+0
+131
+0
+112
+0
+122
+1
+132
+0
+ 79
+0
+146
+0
+ 60
+3
+ 61
+5
+292
+1
+282
+1
+141
+0
+142
+0
+ 63
+250
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+5
+100
+AcDbSymbolTable
+ 70
+4
+  0
+LTYPE
+  5
+14
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+  3
+
+ 70
+0
+ 72
+65
+ 73
+0
+ 40
+0
+  0
+LTYPE
+  5
+15
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+  3
+
+ 70
+0
+ 72
+65
+ 73
+0
+ 40
+0
+  0
+LTYPE
+  5
+16
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+  3
+Solid line
+ 70
+0
+ 72
+65
+ 73
+0
+ 40
+0
+  0
+LTYPE
+  5
+15E
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CENTER
+  3
+Center ____ _ ____ _ ____ _ ____ _ ____ _ ____
+ 70
+0
+ 72
+65
+ 73
+4
+ 40
+2
+ 49
+1.25
+ 74
+0
+ 49
+-0.25
+ 74
+0
+ 49
+0.25
+ 74
+0
+ 49
+-0.25
+ 74
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+2
+100
+AcDbSymbolTable
+ 70
+5
+  0
+LAYER
+  5
+10
+102
+{ACAD_XDICTIONARY
+360
+27
+102
+}
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+ 70
+0
+  2
+0
+ 62
+7
+  6
+Continuous
+370
+-3
+390
+F
+  0
+LAYER
+  5
+29
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+ 70
+0
+  2
+Defpoints
+ 62
+151
+  6
+Continuous
+290
+0
+370
+-3
+390
+F
+  0
+LAYER
+  5
+2A
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+ 70
+64
+  2
+LaserCutting
+ 62
+3
+  6
+Continuous
+370
+-3
+390
+F
+  0
+LAYER
+  5
+2B
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+ 70
+64
+  2
+Marking
+ 62
+6
+  6
+Continuous
+370
+-3
+390
+F
+  0
+LAYER
+  5
+2C
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+ 70
+64
+  2
+Dimention
+ 62
+9
+  6
+Continuous
+370
+-3
+390
+F
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+3
+100
+AcDbSymbolTable
+ 70
+3
+  0
+STYLE
+  5
+11
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+0
+ 40
+0
+ 41
+1
+ 50
+0
+ 71
+0
+ 42
+0.2
+  3
+txt
+  0
+STYLE
+  5
+15C
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Roman
+ 70
+0
+ 40
+0
+ 41
+1
+ 50
+0
+ 71
+0
+ 42
+5
+  3
+romans
+  4
+bigfont
+  0
+STYLE
+  5
+15D
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+FX_VECTOR
+ 70
+0
+ 40
+0
+ 41
+1
+ 50
+0
+ 71
+0
+ 42
+0
+  3
+MONOTXT.SHX
+  4
+BIGFONT.SHX
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+6
+100
+AcDbSymbolTable
+ 70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+7
+100
+AcDbSymbolTable
+ 70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+5
+  0
+APPID
+  5
+12
+330
+0
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+0
+  0
+APPID
+  5
+19E
+330
+0
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_MLEADERVER
+ 70
+0
+  0
+APPID
+  5
+19F
+330
+0
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_EXEMPT_FROM_CAD_STANDARDS
+ 70
+0
+  0
+APPID
+  5
+1A0
+330
+0
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMRADIAL_EXTENSION
+ 70
+0
+  0
+APPID
+  5
+1A1
+330
+0
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnotative
+ 70
+64
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+A
+330
+0
+100
+AcDbSymbolTable
+ 70
+2
+100
+AcDbDimStyleTable
+ 71
+0
+  0
+DIMSTYLE
+105
+15F
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+Standard
+ 70
+0
+  3
+
+  4
+
+ 40
+1
+ 41
+0.5
+ 42
+3
+ 43
+10
+ 44
+0.5
+ 45
+0
+ 46
+0
+ 47
+0
+ 48
+0
+140
+2
+141
+0.09
+142
+0
+143
+0.03937
+144
+1
+145
+0
+146
+1
+147
+0.5
+148
+0
+ 71
+0
+ 72
+0
+ 73
+1
+ 74
+1
+ 75
+0
+ 76
+0
+ 77
+0
+ 78
+0
+ 79
+0
+170
+1
+171
+2
+172
+0
+173
+0
+174
+0
+175
+0
+179
+0
+271
+2
+272
+2
+273
+2
+274
+0
+275
+0
+276
+0
+277
+2
+278
+46
+279
+0
+280
+0
+281
+0
+282
+0
+283
+1
+284
+0
+285
+0
+286
+0
+288
+0
+289
+0
+340
+11
+371
+-2
+372
+-2
+  0
+DIMSTYLE
+105
+160
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+FXDIMINFO
+ 70
+0
+  3
+
+  4
+
+ 40
+1
+ 41
+4
+ 42
+1
+ 43
+20
+ 44
+5
+ 45
+0
+ 46
+6
+ 47
+0
+ 48
+0
+140
+15
+141
+2.5
+142
+0
+143
+0.03937
+144
+1
+145
+0
+146
+1
+147
+1
+148
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+8
+ 79
+0
+170
+0
+171
+3
+172
+1
+173
+1
+174
+0
+175
+0
+176
+7
+177
+7
+178
+7
+179
+0
+271
+4
+272
+4
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+46
+279
+2
+280
+0
+281
+0
+282
+0
+283
+1
+284
+8
+285
+8
+286
+8
+288
+0
+289
+0
+340
+11
+371
+-2
+372
+-2
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+3
+  0
+BLOCK_RECORD
+  5
+2D
+102
+{ACAD_XDICTIONARY
+360
+2E
+102
+}
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+TOL
+1001
+ACAD
+1000
+DesignCenter Data
+1002
+{
+1070
+1
+1070
+4
+1002
+}
+  0
+BLOCK_RECORD
+  5
+66
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+TOLERANCE BLOCK
+1001
+ACAD
+1000
+DesignCenter Data
+1002
+{
+1070
+1
+1070
+4
+1002
+}
+  0
+BLOCK_RECORD
+  5
+6B
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+A
+1001
+ACAD
+1000
+DesignCenter Data
+1002
+{
+1070
+1
+1070
+4
+1002
+}
+  0
+BLOCK_RECORD
+  5
+70
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+1
+1001
+ACAD
+1000
+DesignCenter Data
+1002
+{
+1070
+1
+1070
+1
+1002
+}
+  0
+BLOCK_RECORD
+  5
+E6
+102
+{ACAD_XDICTIONARY
+360
+E7
+102
+}
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+340
+22
+  0
+BLOCK_RECORD
+  5
+1B
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+340
+1E
+  0
+BLOCK_RECORD
+  5
+EE
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space0
+340
+163
+  0
+BLOCK_RECORD
+  5
+F1
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*D555555555
+  0
+BLOCK_RECORD
+  5
+FE
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*D666666666
+  0
+BLOCK_RECORD
+  5
+10B
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*D777777777
+  0
+BLOCK_RECORD
+  5
+118
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*D888888888
+  0
+BLOCK_RECORD
+  5
+123
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*D999999999
+  0
+BLOCK_RECORD
+  5
+130
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*D101010101010101010
+  0
+BLOCK_RECORD
+  5
+13B
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*D111111111111111111
+  0
+BLOCK_RECORD
+  5
+146
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*D121212121212121212
+  0
+BLOCK_RECORD
+  5
+151
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*D131313131313131313
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+30
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+TOL
+ 70
+0
+ 10
+0
+ 20
+0
+ 30
+0
+  3
+TOL
+  0
+LINE
+  5
+31
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+99.999999999999574
+ 20
+0
+ 30
+0
+ 11
+0
+ 21
+0
+ 31
+0
+  0
+LINE
+  5
+32
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+0
+ 20
+0
+ 30
+0
+ 11
+0
+ 21
+-130
+ 31
+0
+  0
+LINE
+  5
+33
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+0
+ 20
+-20
+ 30
+0
+ 11
+99.999999999999574
+ 21
+-20
+ 31
+0
+  0
+LINE
+  5
+34
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+50
+ 20
+-20
+ 30
+0
+ 11
+50
+ 21
+-130
+ 31
+0
+  0
+LINE
+  5
+35
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+24.999999999999559
+ 20
+-30.000000000000028
+ 30
+0
+ 11
+24.999999999999559
+ 21
+-130
+ 31
+0
+  0
+LINE
+  5
+36
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+0
+ 20
+-30.000000000000028
+ 30
+0
+ 11
+50
+ 21
+-30.000000000000028
+ 31
+0
+  0
+LINE
+  5
+37
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+0
+ 20
+-130
+ 30
+0
+ 11
+99.999999999999574
+ 21
+-130
+ 31
+0
+  0
+LINE
+  5
+38
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+0
+ 20
+-120
+ 30
+0
+ 11
+99.999999999999574
+ 21
+-120
+ 31
+0
+  0
+LINE
+  5
+39
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+0
+ 20
+-110
+ 30
+0
+ 11
+99.999999999999574
+ 21
+-110
+ 31
+0
+  0
+LINE
+  5
+3A
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+0
+ 20
+-100
+ 30
+0
+ 11
+99.999999999999574
+ 21
+-100
+ 31
+0
+  0
+LINE
+  5
+3B
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+0
+ 20
+-90
+ 30
+0
+ 11
+99.999999999999574
+ 21
+-90
+ 31
+0
+  0
+LINE
+  5
+3C
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+0
+ 20
+-79.999999999999972
+ 30
+0
+ 11
+99.999999999999574
+ 21
+-79.999999999999972
+ 31
+0
+  0
+LINE
+  5
+3D
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+0
+ 20
+-70
+ 30
+0
+ 11
+99.999999999999574
+ 21
+-70
+ 31
+0
+  0
+LINE
+  5
+3E
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+0
+ 20
+-60
+ 30
+0
+ 11
+99.999999999999574
+ 21
+-60
+ 31
+0
+  0
+LINE
+  5
+3F
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+0
+ 20
+-50.000000000000028
+ 30
+0
+ 11
+99.999999999999574
+ 21
+-50.000000000000028
+ 31
+0
+  0
+LINE
+  5
+40
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+0
+ 20
+-40
+ 30
+0
+ 11
+99.999999999999574
+ 21
+-40
+ 31
+0
+  0
+LINE
+  5
+41
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+99.999999999999574
+ 20
+-130
+ 30
+0
+ 11
+99.999999999999574
+ 21
+0
+ 31
+0
+  0
+MTEXT
+  5
+42
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+16.245461267125851
+ 20
+-3.3354330021499972
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+3.5608995919105482
+ 41
+74.407329180154193
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+APPLIED TO DIMENSIONS\PWITHOUT TOLERANCES
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+43
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+14.17841489240527
+ 20
+-21.88012200406115
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+2.4926297143373839
+ 41
+26.056932558979039
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+DIMENSIONS\P   MM
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+44
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+69.283689155995475
+ 20
+-27.629423384463081
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+2.4926297143373839
+ 41
+26.056932558979039
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+TOLERANCE\P   MM
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+45
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+8.825005280450112
+ 20
+-43.967294419338707
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+6.715928082588106
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+0.5
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+46
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+34.694443651893842
+ 20
+-44.133483136648223
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+6.0065613065244161
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+6
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+47
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+72.257885975416684
+ 20
+-44.9104086823497
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+8.2378472016048363
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+±0.1
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+48
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+10.90186718918039
+ 20
+-53.967294419338742
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+6.715928082588106
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+6
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+49
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+33.791253168206822
+ 20
+-54.133483136648252
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+6.0065613065244161
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+30
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+4A
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+72.257885975416684
+ 20
+-54.910408682349711
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+8.2378472016048363
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+±0.2
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+4B
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+9.9629465155644539
+ 20
+-63.967294419338707
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+6.715928082588106
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+30
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+4C
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+33.145942197977561
+ 20
+-64.133483136648252
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+11.230388423995921
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+120
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+4D
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+72.257885975416684
+ 20
+-64.910408682349725
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+8.2378472016048363
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+±0.3
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+4E
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+7.427028669903847
+ 20
+-73.967294419338728
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+6.715928082588106
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+120
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+4F
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+33.751151967303031
+ 20
+-74.133483136648266
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+6.0065613065244161
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+315
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+50
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+72.257885975416684
+ 20
+-74.910408682349754
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+8.2378472016048363
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+±0.5
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+51
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+7.427028669903847
+ 20
+-83.967294419338685
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+6.715928082588106
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+315
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+52
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+32.318211619442067
+ 20
+-84.133483136648238
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+6.0065613065244161
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+1000
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+53
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+72.257885975416684
+ 20
+-84.9104086823497
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+8.2378472016048363
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+±0.8
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+54
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+7.427028669903847
+ 20
+-93.967294419338742
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+6.715928082588106
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+1000
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+55
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+31.87398621969033
+ 20
+-93.750998530682679
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+6.0065613065244161
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+2000
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+56
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+72.257885975416684
+ 20
+-94.910408682349725
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+8.2378472016048363
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+±1.2
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+57
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+7.427028669903847
+ 20
+-103.9672944193387
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+6.715928082588106
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+2000
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+58
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+30.858523143003382
+ 20
+-104.1334831366482
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+6.0065613065244161
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+4000
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+59
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+72.257885975416684
+ 20
+-104.9104086823497
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+8.2378472016048363
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+±2
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+5A
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+7.427028669903847
+ 20
+-113.9672944193387
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+6.715928082588106
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+4000
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+5B
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+30.5648213755876
+ 20
+-114.1334831366481
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+6.0065613065244161
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+8000
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+5C
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+72.257885975416684
+ 20
+-114.9104086823497
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+8.2378472016048363
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+±3
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+5D
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+7.427028669903847
+ 20
+-123.9672944193387
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+6.715928082588106
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+8000
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+5E
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+30.463754599206371
+ 20
+-124.1334831366482
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+6.0065613065244161
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+12000
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+5F
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+72.257885975416684
+ 20
+-124.9104086823497
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.4511244898881861
+ 41
+8.2378472016048363
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+±4
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+LINE
+  5
+60
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+9.9440364603842681
+ 20
+-38.689233478077078
+ 30
+0
+ 11
+18.92145275013263
+ 21
+-38.689233478077078
+ 31
+0
+  0
+LINE
+  5
+61
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+18.92145275013263
+ 20
+-38.689233478077078
+ 30
+0
+ 11
+11.61465539146502
+ 21
+-31.38102492468693
+ 31
+0
+  0
+LINE
+  5
+62
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+31.078547249865551
+ 20
+-38.689233478077078
+ 30
+0
+ 11
+38.385344608534972
+ 21
+-31.38102492468693
+ 31
+0
+  0
+LINE
+  5
+63
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+40.055963539614353
+ 20
+-38.689233478077078
+ 30
+0
+ 11
+31.078547249865551
+ 21
+-38.689233478077078
+ 31
+0
+  0
+LINE
+  5
+64
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+40.055963539614353
+ 20
+-39.258822291477607
+ 30
+0
+ 11
+31.078547249865551
+ 21
+-39.258822291477657
+ 31
+0
+  0
+ENDBLK
+  5
+65
+330
+2D
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+67
+330
+66
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+TOLERANCE BLOCK
+ 70
+0
+ 10
+0
+ 20
+0
+ 30
+0
+  3
+TOLERANCE BLOCK
+  0
+INSERT
+  5
+68
+330
+66
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockReference
+  2
+TOL
+ 10
+0
+ 20
+0
+ 30
+0
+ 41
+1
+ 42
+1
+ 43
+1
+ 50
+0
+  0
+ENDBLK
+  5
+6A
+330
+66
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+6C
+330
+6B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+A
+ 70
+0
+ 10
+0
+ 20
+0
+ 30
+0
+  3
+A
+  0
+INSERT
+  5
+6D
+330
+6B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockReference
+  2
+TOLERANCE BLOCK
+ 10
+-19.427663741921631
+ 20
+25.25596286449812
+ 30
+0
+ 41
+0.19427663741922169
+ 42
+0.19427663741921461
+ 43
+0.1942766374192163
+ 50
+0
+  0
+ENDBLK
+  5
+6F
+330
+6B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+71
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+1
+ 70
+0
+ 10
+0
+ 20
+0
+ 30
+0
+  3
+1
+  0
+MTEXT
+  5
+72
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+2779.0804414618851
+ 20
+-182.2327866064326
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+12.19539552927017
+ 41
+280.441766171803
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+QTY     :   35 Nos Only
+  7
+Roman
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+73
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+4021.064462836654
+ 20
+-236.73954007182491
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+10.2655
+ 41
+447.33678926907049
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fTimes New Roman|b0|i0|c0|p18;LASER CUTTING}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+TEXT
+  5
+74
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbText
+ 10
+4199.8025548930254
+ 20
+322.15922139348089
+ 30
+0
+ 40
+18.293093293905262
+  1
+B
+ 72
+1
+ 11
+4208.3251897632417
+ 21
+322.15922139348089
+ 31
+0
+  7
+Roman
+100
+AcDbText
+  0
+LINE
+  5
+75
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+4192.5012162402227
+ 20
+466.97954330356072
+ 30
+0
+ 11
+4223.4675427910024
+ 21
+466.97954330356032
+ 31
+0
+  0
+LINE
+  5
+76
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+4192.501216240219
+ 20
+177.3388994833976
+ 30
+0
+ 11
+4223.4675427910024
+ 21
+177.3388994833976
+ 31
+0
+  0
+TEXT
+  5
+77
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbText
+ 10
+4198.2129188487324
+ 20
+32.51857757331431
+ 30
+0
+ 40
+18.293093293905262
+  1
+C
+ 72
+1
+ 11
+4207.4405740266611
+ 21
+32.51857757331431
+ 31
+0
+  7
+Roman
+100
+AcDbText
+  0
+TEXT
+  5
+78
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbText
+ 10
+4199.52667395446
+ 20
+611.79986521364708
+ 30
+0
+ 40
+18.293093293905262
+  1
+A
+ 72
+1
+ 11
+4208.0493083303008
+ 21
+611.79986521364708
+ 31
+0
+  7
+Roman
+100
+AcDbText
+  0
+TEXT
+  5
+79
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbText
+ 10
+4053.54979324201
+ 20
+740.96188488836776
+ 30
+0
+ 40
+18.293093293905262
+  1
+6
+ 72
+1
+ 11
+4060.6561483790351
+ 21
+740.96188488836776
+ 31
+0
+  7
+Roman
+100
+AcDbText
+  0
+LINE
+  5
+7A
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+3927.5230805178421
+ 20
+734.86418712373
+ 30
+0
+ 11
+3927.5230805178421
+ 21
+765.35267594690549
+ 31
+0
+  0
+TEXT
+  5
+7B
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbText
+ 10
+3787.2836575196188
+ 20
+740.96188488836776
+ 30
+0
+ 40
+18.293093293905262
+  1
+5
+ 72
+1
+ 11
+3794.3900126566441
+ 21
+740.96188488836776
+ 31
+0
+  7
+Roman
+100
+AcDbText
+  0
+LINE
+  5
+7C
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+3661.2569447954388
+ 20
+734.86418712373
+ 30
+0
+ 11
+3661.2569447954388
+ 21
+765.35267594690549
+ 31
+0
+  0
+LINE
+  5
+7D
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+3394.9908090730391
+ 20
+734.86418712373
+ 30
+0
+ 11
+3394.9908090730391
+ 21
+765.35267594690549
+ 31
+0
+  0
+TEXT
+  5
+7E
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbText
+ 10
+3521.0175217972037
+ 20
+740.96188488836776
+ 30
+0
+ 40
+18.293093293905262
+  1
+4
+ 72
+1
+ 11
+3528.123876934229
+ 21
+740.96188488836776
+ 31
+0
+  7
+Roman
+100
+AcDbText
+  0
+TEXT
+  5
+7F
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbText
+ 10
+3254.7513860748209
+ 20
+740.96188488836776
+ 30
+0
+ 40
+18.293093293905262
+  1
+3
+ 72
+1
+ 11
+3261.8577412118461
+ 21
+740.96188488836776
+ 31
+0
+  7
+Roman
+100
+AcDbText
+  0
+LINE
+  5
+80
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+3128.7246733506449
+ 20
+734.86418712373
+ 30
+0
+ 11
+3128.7246733506449
+ 21
+765.35267594690549
+ 31
+0
+  0
+TEXT
+  5
+81
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbText
+ 10
+2988.4852503524157
+ 20
+740.96188488836776
+ 30
+0
+ 40
+18.293093293905262
+  1
+2
+ 72
+1
+ 11
+2995.591605489441
+ 21
+740.96188488836776
+ 31
+0
+  7
+Roman
+100
+AcDbText
+  0
+LINE
+  5
+82
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+2862.4585376282321
+ 20
+734.86418712373
+ 30
+0
+ 11
+2862.4585376282321
+ 21
+765.35267594690549
+ 31
+0
+  0
+LINE
+  5
+83
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+2597.4804019058488
+ 20
+-112.3017443367696
+ 30
+0
+ 11
+2571.4733693390249
+ 21
+-112.3017443367696
+ 31
+0
+  0
+TEXT
+  5
+84
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbText
+ 10
+2574.446853999184
+ 20
+-257.12206624685223
+ 30
+0
+ 40
+18.293093293905262
+  1
+D
+ 72
+1
+ 11
+2583.6745091771122
+ 21
+-257.12206624685223
+ 31
+0
+  7
+Roman
+100
+AcDbText
+  0
+TEXT
+  5
+85
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbText
+ 10
+2575.1518743068959
+ 20
+322.15922139348089
+ 30
+0
+ 40
+18.293093293905262
+  1
+B
+ 72
+1
+ 11
+2583.6745091771122
+ 21
+322.15922139348089
+ 31
+0
+  7
+Roman
+100
+AcDbText
+  0
+TEXT
+  5
+86
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbText
+ 10
+2575.1518748012718
+ 20
+611.79986521364708
+ 30
+0
+ 40
+18.293093293905262
+  1
+A
+ 72
+1
+ 11
+2583.6745091771122
+ 21
+611.79986521364708
+ 31
+0
+  7
+Roman
+100
+AcDbText
+  0
+LINE
+  5
+87
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+2597.4804019058461
+ 20
+466.97954330356032
+ 30
+0
+ 11
+2571.4733693390249
+ 21
+466.97954330355958
+ 31
+0
+  0
+LINE
+  5
+88
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+2597.4804019058488
+ 20
+177.33889948339689
+ 30
+0
+ 11
+2571.4733693390249
+ 21
+177.33889948339689
+ 31
+0
+  0
+TEXT
+  5
+89
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbText
+ 10
+2574.446853999184
+ 20
+32.51857757331431
+ 30
+0
+ 40
+18.293093293905262
+  1
+C
+ 72
+1
+ 11
+2583.6745091771122
+ 21
+32.51857757331431
+ 31
+0
+  7
+Roman
+100
+AcDbText
+  0
+TEXT
+  5
+8A
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbText
+ 10
+2722.2191146300165
+ 20
+740.96188488836776
+ 30
+0
+ 40
+18.293093293905262
+  1
+1
+ 72
+1
+ 11
+2729.3254697670418
+ 21
+740.96188488836776
+ 31
+0
+  7
+Roman
+100
+AcDbText
+  0
+LINE
+  5
+8B
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+4192.5012162402227
+ 20
+734.86418712373074
+ 30
+0
+ 11
+4192.501216240219
+ 21
+-380.1863881569364
+ 31
+0
+  0
+LINE
+  5
+8C
+330
+70
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+100
+AcDbLine
+ 10
+4223.4675427910024
+ 20
+765.35267594690674
+ 30
+0
+ 11
+4223.4675427910024
+ 21
+-410.67487698011058
+ 31
+0
+  0
+LINE
+  5
+8D
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+2597.4804019058488
+ 20
+-380.18638815693572
+ 30
+0
+ 11
+2597.4804019058452
+ 21
+734.86418712373143
+ 31
+0
+  0
+LINE
+  5
+8E
+330
+70
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+100
+AcDbLine
+ 10
+2571.4733693390231
+ 20
+-410.67487698010979
+ 30
+0
+ 11
+2571.4733693390249
+ 21
+765.35267594690629
+ 31
+0
+  0
+LINE
+  5
+8F
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+4192.501216240219
+ 20
+-380.1863881569364
+ 30
+0
+ 11
+2597.4804019058461
+ 21
+-380.18638815693572
+ 31
+0
+  0
+LINE
+  5
+90
+330
+70
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+100
+AcDbLine
+ 10
+4223.4675427910024
+ 20
+-410.67487698011041
+ 30
+0
+ 11
+2571.4733693390231
+ 21
+-410.67487698010979
+ 31
+0
+  0
+LINE
+  5
+91
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+2597.4804019058461
+ 20
+734.86418712373074
+ 30
+0
+ 11
+4192.501216240219
+ 21
+734.86418712373074
+ 31
+0
+  0
+LINE
+  5
+92
+330
+70
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+100
+AcDbLine
+ 10
+2571.4733693390272
+ 20
+765.35267594690629
+ 30
+0
+ 11
+4223.4675427910024
+ 21
+765.35267594690629
+ 31
+0
+  0
+LINE
+  5
+93
+330
+70
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbLine
+ 10
+4192.501216240219
+ 20
+-142.37617533616529
+ 30
+0
+ 11
+4192.501216240219
+ 21
+-380.1863881569364
+ 31
+0
+  0
+LINE
+  5
+94
+330
+70
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbLine
+ 10
+3401.61684234202
+ 20
+-380.1863881569364
+ 30
+0
+ 11
+4192.501216240219
+ 21
+-380.1863881569364
+ 31
+0
+  0
+LINE
+  5
+95
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+4005.7395452303108
+ 20
+-261.28128174654819
+ 30
+0
+ 11
+4192.501216240219
+ 21
+-261.28128174654819
+ 31
+0
+  0
+LINE
+  5
+96
+330
+70
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbLine
+ 10
+4148.563195468113
+ 20
+-307.01401498131509
+ 30
+0
+ 11
+4148.563195468113
+ 21
+-380.1863881569364
+ 31
+0
+  0
+LINE
+  5
+97
+330
+70
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbLine
+ 10
+4148.563195468113
+ 20
+-343.60020156912321
+ 30
+0
+ 11
+4192.501216240219
+ 21
+-343.60020156912321
+ 31
+0
+  0
+MTEXT
+  5
+98
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+4149.3854775617074
+ 20
+-324.19551556403883
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+4.9274325370788556
+ 41
+72.222821288684528
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fArial Black|b0|i0|c0|p34;CUSTOMER   \P    REV NO}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+99
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+4162.6915954868618
+ 20
+-357.00216688055622
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+6.8436563014984122
+ 41
+14.38203844506252
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fArial|b0|i0|c0|p34;2}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+9A
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+3940.4297759851979
+ 20
+-366.27002549269992
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+10.949850082397459
+ 41
+181.3096928155359
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fArial|b1|i0|c0|p34;243241}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+9B
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+3828.7654099409492
+ 20
+-366.27002549269992
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+6.0976977646350861
+ 41
+122.2616260314399
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fArial|b0|i0|c0|p34;\H1.796x;DRAWING NO: \H0.6248x;    \H0.8913x; }
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+LINE
+  5
+9C
+330
+70
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbLine
+ 10
+3819.0280396771859
+ 20
+-142.37617533616529
+ 30
+0
+ 11
+3819.0280396771859
+ 21
+-380.1863881569364
+ 31
+0
+  0
+LINE
+  5
+9D
+330
+70
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbLine
+ 10
+3632.291451395678
+ 20
+-288.72092168740988
+ 30
+0
+ 11
+3632.291451395678
+ 21
+-380.1863881569364
+ 31
+0
+  0
+LINE
+  5
+9E
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+3725.6597455364308
+ 20
+-361.89329486303478
+ 30
+0
+ 11
+3725.6597455364308
+ 21
+-307.01401498131509
+ 31
+0
+  0
+LINE
+  5
+9F
+330
+70
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbLine
+ 10
+3632.291451395678
+ 20
+-361.89329486303478
+ 30
+0
+ 11
+4148.563195468113
+ 21
+-361.89329486303478
+ 31
+0
+  0
+LINE
+  5
+A0
+330
+70
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbLine
+ 10
+3632.291451395678
+ 20
+-307.01401498131509
+ 30
+0
+ 11
+4192.501216240219
+ 21
+-307.01401498131509
+ 31
+0
+  0
+MTEXT
+  5
+A1
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+3754.2437768714021
+ 20
+-349.125023962085
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+6.8436563014984122
+ 41
+70.310265655508971
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fArial|b0|i0|c0|p34;17/02/2010}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+A2
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+3638.3926415398159
+ 20
+-348.8585253508698
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+6.8436563014984122
+ 41
+86.3353579856546
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fArial|b0|i0|c0|p34;DOC REV DATE}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+A3
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+3633.9393933259939
+ 20
+-367.39399679010489
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+6.8436563014984122
+ 41
+219.77913379669181
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fArial Black|b0|i0|c0|p34;ALL DIMENSIONS ARE IN MM}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+A4
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+3903.5856557921429
+ 20
+-177.53543033908531
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+12.19539552927017
+ 41
+280.441766171803
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fArial Black|b0|i0|c0|p34;VIMAN MULTIPLUG PVT LTD}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+LINE
+  5
+A5
+330
+70
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbLine
+ 10
+3401.61684234202
+ 20
+-142.37617533616529
+ 30
+0
+ 11
+4192.501216240219
+ 21
+-142.37617533616529
+ 31
+0
+  0
+LINE
+  5
+A6
+330
+70
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbLine
+ 10
+3401.61684234202
+ 20
+-142.37617533616529
+ 30
+0
+ 11
+3401.61684234202
+ 21
+-380.1863881569364
+ 31
+0
+  0
+INSERT
+  5
+A7
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockReference
+  2
+A
+ 10
+3401.61684234202
+ 20
+-380.1863881569364
+ 30
+0
+ 41
+7.914033268988347
+ 42
+7.9140332689902593
+ 43
+7.9140332689895816
+ 50
+0
+  0
+LINE
+  5
+A9
+330
+70
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbLine
+ 10
+3401.61684234202
+ 20
+-215.548548511785
+ 30
+0
+ 11
+4192.501216240219
+ 21
+-215.548548511785
+ 31
+0
+  0
+MTEXT
+  5
+AA
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+3408.9457293384548
+ 20
+-221.914832400202
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+9.14654664695263
+ 41
+214.6951270447307
+ 46
+0
+ 71
+1
+ 72
+5
+  3
+{\fArial|b1|i0|c0|p34;PROPRIETARY AND COFIDENTAL\fArial|b0|i0|c0|p34;\P\P\fArial|b0|i1|c0|p34;\H1.067x;The information contained in this drawing is the sole property of Viman Multiplug Pvt Ltd.Any reproduct in part or as a whole without the written 
+  1
+permission of Viman Multiplug Pvt Ltd is prohibited.}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+AB
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+3403.8128333696768
+ 20
+-145.58426698862891
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+6.0976977646350861
+ 41
+43.708971685991962
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fArial|b1|i0|c0|p34;COMMENTS:}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+LINE
+  5
+AC
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+3632.291451395678
+ 20
+-343.63441985063582
+ 30
+0
+ 11
+3819.0280396771859
+ 21
+-343.63441985063582
+ 31
+0
+  0
+LINE
+  5
+AD
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+3632.291451395678
+ 20
+-325.375544838238
+ 30
+0
+ 11
+3819.0280396771859
+ 21
+-325.375544838238
+ 31
+0
+  0
+MTEXT
+  5
+AE
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+3650.5431333550682
+ 20
+-330.49846909950787
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+6.8436563014984122
+ 41
+70.310265655508971
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fArial|b0|i0|c0|p34;DOC NO}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+AF
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+3754.2437768714021
+ 20
+-330.24202942863951
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+6.8436563014984122
+ 41
+70.310265655508971
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fArial|b0|i0|c0|p34;QR/PC/04}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+B0
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+4010.5184737090658
+ 20
+-266.10562002292488
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+9.14654664695263
+ 41
+69.887142268519142
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fArial|b0|i0|c0|p34;MATERIAL:}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+B1
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+4057.0133698231439
+ 20
+-283.38243780824359
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+9.14654664695263
+ 41
+144.35851958692081
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fVerdana|b0|i0|c0|p34;SS 304 GRADE}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+HATCH
+  5
+B2
+330
+70
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+SOLID
+ 70
+1
+ 71
+0
+ 91
+2
+ 92
+1
+ 93
+1
+ 72
+3
+ 10
+3868.9951352861872
+ 20
+-184.38852790231351
+ 11
+26.924815004040411
+ 21
+-3.7794639636E-05
+ 40
+0.80316972262717545
+ 50
+0
+ 51
+360
+ 73
+1
+ 97
+0
+ 92
+16
+ 93
+1
+ 72
+3
+ 10
+3869.0609052654809
+ 20
+-184.272335036492
+ 11
+-21.075482839091769
+ 21
+-9.8850423414E-06
+ 40
+0.75754591801746418
+ 50
+0
+ 51
+360
+ 73
+1
+ 97
+0
+ 75
+0
+ 76
+1
+ 98
+1
+ 10
+1357.005410345276
+ 20
+-763.72905723639064
+450
+0
+451
+0
+460
+0
+461
+0
+452
+0
+462
+0
+453
+0
+470
+
+  0
+HATCH
+  5
+B3
+330
+70
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+SOLID
+ 70
+1
+ 71
+0
+ 91
+5
+ 92
+1
+ 93
+1
+ 72
+3
+ 10
+3868.9958569901141
+ 20
+-184.388490107674
+ 11
+-17.420844554488081
+ 21
+0
+ 40
+0.70916950405376433
+ 50
+0
+ 51
+360
+ 73
+1
+ 97
+0
+ 92
+16
+ 93
+7
+ 72
+1
+ 10
+3857.3515205340368
+ 20
+-181.34830358420831
+ 11
+3860.1596051265269
+ 21
+-189.26472785001579
+ 72
+1
+ 10
+3860.15960512653
+ 20
+-189.26472785001451
+ 11
+3861.8638888516512
+ 21
+-189.26472785001451
+ 72
+1
+ 10
+3861.8638888516512
+ 20
+-189.26472785001451
+ 11
+3864.7070658845291
+ 21
+-181.3376822979551
+ 72
+1
+ 10
+3864.707065884535
+ 20
+-181.33768229795379
+ 11
+3863.0071680900369
+ 21
+-181.33768229795379
+ 72
+1
+ 10
+3863.0071680900342
+ 20
+-181.33768229795379
+ 11
+3861.066978244206
+ 21
+-187.1984006414564
+ 72
+1
+ 10
+3861.0669782442269
+ 20
+-187.1984006414564
+ 11
+3859.0588014782729
+ 21
+-181.33860632316839
+ 72
+1
+ 10
+3859.0588014782661
+ 20
+-181.33860632316711
+ 11
+3857.3515205340418
+ 21
+-181.3483035842109
+ 97
+0
+ 92
+16
+ 93
+13
+ 72
+1
+ 10
+3865.4968980594931
+ 20
+-189.26260626143011
+ 11
+3865.4968980594931
+ 21
+-181.3383427925134
+ 72
+1
+ 10
+3865.4968980594931
+ 20
+-181.33834279251079
+ 11
+3867.8939490187281
+ 21
+-181.33834279251079
+ 72
+1
+ 10
+3867.8939490187381
+ 20
+-181.33834279251079
+ 11
+3869.33155517363
+ 21
+-186.7406312097209
+ 72
+1
+ 10
+3869.3315551736359
+ 20
+-186.7406312097209
+ 11
+3870.7492797751011
+ 21
+-181.33935021350649
+ 72
+1
+ 10
+3870.74927977511
+ 20
+-181.33935021350911
+ 11
+3873.153479101918
+ 21
+-181.33935021350911
+ 72
+1
+ 10
+3873.1534791019149
+ 20
+-181.33935021350911
+ 11
+3873.1534791019149
+ 21
+-189.2592437436692
+ 72
+1
+ 10
+3873.1534791019149
+ 20
+-189.259243743668
+ 11
+3871.6641809081161
+ 21
+-189.259243743668
+ 72
+1
+ 10
+3871.6641809081361
+ 20
+-189.259243743668
+ 11
+3871.6641809081361
+ 21
+-183.04081088678021
+ 72
+1
+ 10
+3871.6641809081361
+ 20
+-183.04081088678279
+ 11
+3870.0932284750629
+ 21
+-189.260978375843
+ 72
+1
+ 10
+3870.0932284750738
+ 20
+-189.260978375848
+ 11
+3868.551274136898
+ 21
+-189.260978375848
+ 72
+1
+ 10
+3868.5512741368871
+ 20
+-189.260978375848
+ 11
+3866.9860014340452
+ 21
+-183.03632752977089
+ 72
+1
+ 10
+3866.9860014340688
+ 20
+-183.03632752976841
+ 11
+3866.9860014340688
+ 21
+-189.260828263446
+ 72
+1
+ 10
+3866.9860014340688
+ 20
+-189.260828263446
+ 11
+3865.4968980595149
+ 21
+-189.26260626142749
+ 97
+0
+ 92
+16
+ 93
+9
+ 72
+1
+ 10
+3874.737929011706
+ 20
+-181.33840950913569
+ 11
+3874.737929011706
+ 21
+-189.25818628520739
+ 72
+1
+ 10
+3874.737929011706
+ 20
+-189.25818628520241
+ 11
+3876.3415511330359
+ 21
+-189.25818628520241
+ 72
+1
+ 10
+3876.341551133055
+ 20
+-189.25818628520241
+ 11
+3876.341551133055
+ 21
+-186.2752460755604
+ 72
+1
+ 10
+3876.341551133055
+ 20
+-186.2752460755604
+ 11
+3877.6878869707261
+ 21
+-186.2752460755604
+ 72
+1
+ 10
+3877.6878869707039
+ 20
+-186.2752460755604
+ 11
+3879.0461454809752
+ 21
+-186.2752460755604
+ 72
+2
+ 10
+3879.0461454809838
+ 20
+-184.5151178989922
+ 40
+1.7601281765699479
+ 50
+270
+ 51
+360.00000000000591
+ 73
+1
+ 72
+1
+ 10
+3880.8062736575471
+ 20
+-184.5151178989922
+ 11
+3880.8062736575471
+ 21
+-183.0985376857013
+ 72
+2
+ 10
+3879.0461454809838
+ 20
+-183.09853768570889
+ 40
+1.760128176569935
+ 50
+0
+ 51
+90
+ 73
+1
+ 72
+1
+ 10
+3879.0461454809838
+ 20
+-181.33840950913569
+ 11
+3874.737929011716
+ 21
+-181.33840950913569
+ 97
+0
+ 92
+0
+ 93
+6
+ 72
+1
+ 10
+3876.146031552958
+ 20
+-182.74651205038819
+ 11
+3876.146031552958
+ 21
+-184.86714353430151
+ 72
+1
+ 10
+3876.146031552958
+ 20
+-184.86714353431049
+ 11
+3879.0461454809838
+ 21
+-184.86714353430921
+ 72
+2
+ 10
+3879.0461454809838
+ 20
+-184.5151178989922
+ 40
+0.35202563531358783
+ 50
+270
+ 51
+360
+ 73
+1
+ 72
+1
+ 10
+3879.3981711162942
+ 20
+-184.5151178989922
+ 11
+3879.3981711162942
+ 21
+-183.09853768570639
+ 72
+2
+ 10
+3879.0461454809838
+ 20
+-183.09853768570889
+ 40
+0.35202563531428771
+ 50
+2.9083E-11
+ 51
+90
+ 73
+1
+ 72
+1
+ 10
+3879.0461454809838
+ 20
+-182.74651205038819
+ 11
+3876.1460315529662
+ 21
+-182.74651205038819
+ 97
+0
+ 75
+0
+ 76
+1
+ 98
+1
+ 10
+1357.005410345276
+ 20
+-763.72905723639064
+450
+0
+451
+0
+460
+0
+461
+0
+452
+0
+462
+0
+453
+0
+470
+
+  0
+LINE
+  5
+B4
+330
+70
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbLine
+ 10
+3632.291451395678
+ 20
+-270.42782839350838
+ 30
+0
+ 11
+3819.0280396771859
+ 21
+-270.42782839350838
+ 31
+0
+  0
+LINE
+  5
+B5
+330
+70
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbLine
+ 10
+3632.291451395678
+ 20
+-252.13473509959681
+ 30
+0
+ 11
+3819.0280396771859
+ 21
+-252.13473509959681
+ 31
+0
+  0
+LINE
+  5
+B6
+330
+70
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbLine
+ 10
+3632.291451395678
+ 20
+-233.84164180569161
+ 30
+0
+ 11
+3819.0280396771859
+ 21
+-233.84164180569161
+ 31
+0
+  0
+MTEXT
+  5
+B7
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+3644.0483002210708
+ 20
+-273.9394492077389
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+5.4879279881715766
+ 41
+43.708971685991962
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fArial|b0|i0|c0|p34;QA APPR}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+B8
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+3643.8942808903489
+ 20
+-256.39399294439011
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+5.4879279881715766
+ 41
+43.708971685991962
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fArial|b0|i0|c0|p34;MFG APPR}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+B9
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+3644.023918596532
+ 20
+-239.3653178560765
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+6.0976977646350861
+ 41
+43.708971685991962
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fArial|b0|i0|c0|p34;\H0.9x;CHECKED}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+BA
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+3645.0908782471029
+ 20
+-220.34851120358931
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+6.0976977646350861
+ 41
+43.708971685991962
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fArial|b0|i0|c0|p34;\H0.9x;DRAWN}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+BB
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+3771.0132393228319
+ 20
+-194.88661597991469
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+9.14654664695263
+ 41
+39.180475385255562
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fArial|b0|i0|c0|p34;DATE}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+BC
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+3710.711878943393
+ 20
+-193.66432891524741
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+9.14654664695263
+ 41
+43.708971685991962
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fArial|b0|i0|c0|p34;NAME}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+LINE
+  5
+BD
+330
+70
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbLine
+ 10
+3632.291451395678
+ 20
+-178.96236192397839
+ 30
+0
+ 11
+3819.0280396771859
+ 21
+-178.96236192397839
+ 31
+0
+  0
+LINE
+  5
+BE
+330
+70
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbLine
+ 10
+3756.6844857942269
+ 20
+-178.96236192397839
+ 30
+0
+ 11
+3756.6844857942269
+ 21
+-288.72092168740988
+ 31
+0
+  0
+LINE
+  5
+BF
+330
+70
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbLine
+ 10
+3694.4879685949541
+ 20
+-178.96236192397839
+ 30
+0
+ 11
+3694.4879685949541
+ 21
+-288.72092168740988
+ 31
+0
+  0
+MTEXT
+  5
+C0
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+4011.3106445588478
+ 20
+-221.09387622202769
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+9.14654664695263
+ 41
+119.3898379620442
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fArial|b0|i0|c0|p34;PROCESS NAME:}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+LINE
+  5
+C1
+330
+70
+100
+AcDbEntity
+  8
+0
+  6
+CENTER
+100
+AcDbLine
+ 10
+3966.1813053155611
+ 20
+-298.36232919385429
+ 30
+0
+ 11
+3966.1813053155611
+ 21
+-225.03069793897089
+ 31
+0
+  0
+LINE
+  5
+C2
+330
+70
+100
+AcDbEntity
+  8
+0
+  6
+CENTER
+100
+AcDbLine
+ 10
+4001.536215753069
+ 20
+-261.28128174654819
+ 30
+0
+ 11
+3828.0027714059388
+ 21
+-261.28128174654819
+ 31
+0
+  0
+LINE
+  5
+C3
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+3917.7142080991221
+ 20
+-229.17923717405219
+ 30
+0
+ 11
+3917.7142080991221
+ 21
+-293.3833263190532
+ 31
+0
+  0
+LINE
+  5
+C4
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+3838.2091917681241
+ 20
+-240.7475456983336
+ 30
+0
+ 11
+3838.2091917681241
+ 21
+-261.28128174654819
+ 31
+0
+  0
+LINE
+  5
+C5
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+3917.7142080991221
+ 20
+-229.17923717405219
+ 30
+0
+ 11
+3838.2091917681241
+ 21
+-240.7475456983336
+ 31
+0
+  0
+LINE
+  5
+C6
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+3838.2091917681241
+ 20
+-281.81501779476918
+ 30
+0
+ 11
+3838.2091917681241
+ 21
+-261.28128174654819
+ 31
+0
+  0
+LINE
+  5
+C7
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+3917.7142080991221
+ 20
+-293.3833263190532
+ 30
+0
+ 11
+3838.2091917681241
+ 21
+-281.81501779476918
+ 31
+0
+  0
+CIRCLE
+  5
+C8
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbCircle
+ 10
+3966.1813053155611
+ 20
+-261.28128174654819
+ 30
+0
+ 40
+32.102044572500432
+  0
+CIRCLE
+  5
+C9
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbCircle
+ 10
+3966.1813053155611
+ 20
+-261.28128174654819
+ 30
+0
+ 40
+20.533736048218412
+  0
+LINE
+  5
+CA
+330
+70
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbLine
+ 10
+4005.7395452303108
+ 20
+-215.548548511785
+ 30
+0
+ 11
+4005.7395452303108
+ 21
+-307.01401498131509
+ 31
+0
+  0
+LINE
+  5
+CB
+330
+70
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbLine
+ 10
+3632.291451395678
+ 20
+-142.37617533616529
+ 30
+0
+ 11
+3632.291451395678
+ 21
+-288.72092168740988
+ 31
+0
+  0
+LINE
+  5
+CC
+330
+70
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbLine
+ 10
+3632.291451395678
+ 20
+-288.72092168740988
+ 30
+0
+ 11
+3819.0280396771859
+ 21
+-288.72092168740988
+ 31
+0
+  0
+MTEXT
+  5
+CD
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+3825.491656866101
+ 20
+-311.89839559801169
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+9.14654664695263
+ 41
+280.441766171803
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fArial|b0|i0|c0|p34;DRAWING NAME:}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+CE
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+3707.2309764286078
+ 20
+-220.34851120358931
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+6.0976977646350861
+ 41
+43.708971685991962
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fArial|b1|i0|c0|p34;HARI}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+CF
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+3710.1915403273142
+ 20
+-239.31232679676751
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+6.0976977646350861
+ 41
+43.708971685991962
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fArial|b0|i0|c0|p34;\H0.9x;ESWAR}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+D0
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+3765.1110786158529
+ 20
+-221.5353884549956
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+6.0976977646350861
+ 41
+47.208500766895888
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fArial|b0|i0|c0|p34;\H0.9x;15/10/2010}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+D1
+330
+70
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+100
+AcDbMText
+ 10
+3921.161865297398
+ 20
+-335.66980368488157
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+14
+ 41
+296.42963984328009
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+{\fTimes New Roman|b0|i0|c0|p18;SUNSHADE}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+D2
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+2778.671116750766
+ 20
+-233.49581551992949
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+12.19539552927017
+ 41
+340.38703966140753
+ 46
+0
+ 71
+1
+ 72
+5
+  1
+BLANK SIZE : 3 X 534.5 X 764.2
+  7
+Roman
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+MTEXT
+  5
+D3
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+4175.3303148433943
+ 20
+725.89459165233643
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+12.19539552927017
+ 41
+280.441766171803
+ 46
+0
+ 71
+3
+ 72
+5
+  1
+{\fArial|b1|i0|c0|p34;IF IN DOUBT ASK DESIGN DEPARTMENT}
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+LINE
+  5
+D4
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+2597.4804019058452
+ 20
+-410.674876980109
+ 30
+0
+ 11
+4192.501216240219
+ 21
+-410.674876980109
+ 31
+0
+  0
+TEXT
+  5
+D5
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbText
+ 10
+2722.2191146300165
+ 20
+-404.5771792154718
+ 30
+0
+ 40
+18.293093293905262
+  1
+1
+ 72
+1
+ 11
+2729.3254697670418
+ 21
+-404.5771792154718
+ 31
+0
+  7
+Roman
+100
+AcDbText
+  0
+LINE
+  5
+D6
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+2862.4585376282312
+ 20
+-410.67487698010967
+ 30
+0
+ 11
+2862.4585376282312
+ 21
+-380.1863881569343
+ 31
+0
+  0
+TEXT
+  5
+D7
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbText
+ 10
+2988.4852503524157
+ 20
+-404.5771792154718
+ 30
+0
+ 40
+18.293093293905262
+  1
+2
+ 72
+1
+ 11
+2995.591605489441
+ 21
+-404.5771792154718
+ 31
+0
+  7
+Roman
+100
+AcDbText
+  0
+LINE
+  5
+D8
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+3128.7246733506449
+ 20
+-410.67487698010967
+ 30
+0
+ 11
+3128.7246733506449
+ 21
+-380.1863881569343
+ 31
+0
+  0
+TEXT
+  5
+D9
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbText
+ 10
+3254.7513860748186
+ 20
+-404.5771792154718
+ 30
+0
+ 40
+18.293093293905262
+  1
+3
+ 72
+1
+ 11
+3261.8577412118439
+ 21
+-404.5771792154718
+ 31
+0
+  7
+Roman
+100
+AcDbText
+  0
+TEXT
+  5
+DA
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbText
+ 10
+3521.0175217972028
+ 20
+-404.5771792154718
+ 30
+0
+ 40
+18.293093293905262
+  1
+4
+ 72
+1
+ 11
+3528.1238769342281
+ 21
+-404.5771792154718
+ 31
+0
+  7
+Roman
+100
+AcDbText
+  0
+LINE
+  5
+DB
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+3394.9908090730391
+ 20
+-410.67487698010967
+ 30
+0
+ 11
+3394.9908090730391
+ 21
+-380.1863881569343
+ 31
+0
+  0
+LINE
+  5
+DC
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+3661.2569447954388
+ 20
+-410.67487698010967
+ 30
+0
+ 11
+3661.2569447954388
+ 21
+-380.1863881569343
+ 31
+0
+  0
+TEXT
+  5
+DD
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbText
+ 10
+3787.2836575196166
+ 20
+-404.5771792154718
+ 30
+0
+ 40
+18.293093293905262
+  1
+5
+ 72
+1
+ 11
+3794.3900126566418
+ 21
+-404.5771792154718
+ 31
+0
+  7
+Roman
+100
+AcDbText
+  0
+LINE
+  5
+DE
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+3927.5230805178412
+ 20
+-410.67487698010967
+ 30
+0
+ 11
+3927.5230805178412
+ 21
+-380.1863881569343
+ 31
+0
+  0
+TEXT
+  5
+DF
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbText
+ 10
+4053.54979324201
+ 20
+-404.5771792154718
+ 30
+0
+ 40
+18.293093293905262
+  1
+6
+ 72
+1
+ 11
+4060.6561483790351
+ 21
+-404.5771792154718
+ 31
+0
+  7
+Roman
+100
+AcDbText
+  0
+LINE
+  5
+E0
+330
+70
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+100
+AcDbLine
+ 10
+2597.4804019058488
+ 20
+-380.18638815693367
+ 30
+0
+ 11
+4192.501216240219
+ 21
+-380.18638815693362
+ 31
+0
+  0
+LINE
+  5
+E1
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+4223.4675427910024
+ 20
+177.33889948339689
+ 30
+0
+ 11
+4197.4605102241767
+ 21
+177.33889948339689
+ 31
+0
+  0
+TEXT
+  5
+E2
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbText
+ 10
+4200.4339948843362
+ 20
+-257.12206624685223
+ 30
+0
+ 40
+18.293093293905262
+  1
+D
+ 72
+1
+ 11
+4209.6616500622649
+ 21
+-257.12206624685223
+ 31
+0
+  7
+Roman
+100
+AcDbText
+  0
+LINE
+  5
+E3
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+4223.467542791
+ 20
+-112.3017443367696
+ 30
+0
+ 11
+4192.5012162402209
+ 21
+-112.3017443367696
+ 31
+0
+  0
+LWPOLYLINE
+  5
+E4
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
+4
+ 70
+1
+ 10
+3942.3708139573969
+ 20
+734.86418712373074
+ 10
+4192.5012162402227
+ 20
+734.86418712373074
+ 10
+4192.5012162402227
+ 20
+680.76476093332565
+ 10
+3942.3708139573969
+ 20
+680.76476093332565
+  0
+ENDBLK
+  5
+E5
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+E9
+330
+E6
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+0
+ 10
+0
+ 20
+0
+ 30
+0
+  3
+*Model_Space
+  0
+ENDBLK
+  5
+ED
+330
+E6
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+1C
+330
+1B
+100
+AcDbEntity
+  8
+0
+ 67
+1
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+0
+ 10
+0
+ 20
+0
+ 30
+0
+  3
+*Paper_Space
+  0
+ENDBLK
+  5
+1D
+330
+1B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+EF
+330
+EE
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space0
+ 70
+0
+ 10
+0
+ 20
+0
+ 30
+0
+  3
+*Paper_Space0
+  0
+ENDBLK
+  5
+F0
+330
+EE
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+F2
+330
+F1
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D555555555
+ 70
+1
+ 10
+0
+ 20
+0
+ 30
+0
+  3
+*D555555555
+  0
+LINE
+  5
+F3
+330
+F1
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5388.2758137216579
+ 20
+15106.403844451819
+ 30
+0
+ 11
+5388.2758137216579
+ 21
+15089.533032429161
+ 31
+0
+  0
+LINE
+  5
+F4
+330
+F1
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5435.275813721657
+ 20
+15106.403844451819
+ 30
+0
+ 11
+5435.275813721657
+ 21
+15089.533032429161
+ 31
+0
+  0
+LINE
+  5
+F5
+330
+F1
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5388.775813721657
+ 20
+15090.033032429161
+ 30
+0
+ 11
+5402.275813721657
+ 21
+15090.033032429161
+ 31
+0
+  0
+LINE
+  5
+F6
+330
+F1
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5434.775813721657
+ 20
+15090.033032429161
+ 30
+0
+ 11
+5421.275813721656
+ 21
+15090.033032429161
+ 31
+0
+  0
+SOLID
+  5
+F7
+330
+F1
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbTrace
+ 10
+5388.775813721657
+ 20
+15090.1163657625
+ 30
+0
+ 11
+5388.775813721657
+ 21
+15089.949699095831
+ 31
+0
+ 12
+5388.2758137216579
+ 22
+15090.033032429161
+ 32
+0
+ 13
+5388.2758137216579
+ 23
+15090.033032429161
+ 33
+0
+  0
+SOLID
+  5
+F8
+330
+F1
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbTrace
+ 10
+5434.775813721657
+ 20
+15090.1163657625
+ 30
+0
+ 11
+5434.775813721657
+ 21
+15089.949699095831
+ 31
+0
+ 12
+5435.275813721657
+ 22
+15090.033032429161
+ 32
+0
+ 13
+5435.275813721657
+ 23
+15090.033032429161
+ 33
+0
+  0
+MTEXT
+  5
+F9
+330
+F1
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbMText
+ 10
+5411.775813721657
+ 20
+15090.033032429161
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+2
+ 41
+0
+ 46
+0
+ 71
+5
+ 72
+1
+  1
+\A1;47.00 [1.85]
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+POINT
+  5
+FA
+330
+F1
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+0
+100
+AcDbPoint
+ 10
+5388.2758137216579
+ 20
+15109.403844451819
+ 30
+0
+ 50
+0
+  0
+POINT
+  5
+FB
+330
+F1
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+0
+100
+AcDbPoint
+ 10
+5435.275813721657
+ 20
+15109.403844451819
+ 30
+0
+ 50
+0
+  0
+POINT
+  5
+FC
+330
+F1
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+0
+100
+AcDbPoint
+ 10
+5435.275813721657
+ 20
+15090.033032429161
+ 30
+0
+ 50
+0
+  0
+ENDBLK
+  5
+FD
+330
+F1
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+FF
+330
+FE
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D666666666
+ 70
+1
+ 10
+0
+ 20
+0
+ 30
+0
+  3
+*D666666666
+  0
+LINE
+  5
+100
+330
+FE
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5387.7758137216579
+ 20
+15106.403844451819
+ 30
+0
+ 11
+5387.7758137216579
+ 21
+15083.64912013432
+ 31
+0
+  0
+LINE
+  5
+101
+330
+FE
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5435.275813721657
+ 20
+15106.403844451819
+ 30
+0
+ 11
+5435.275813721657
+ 21
+15083.64912013432
+ 31
+0
+  0
+LINE
+  5
+102
+330
+FE
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5388.2758137216579
+ 20
+15084.14912013432
+ 30
+0
+ 11
+5401.85914705499
+ 21
+15084.14912013432
+ 31
+0
+  0
+LINE
+  5
+103
+330
+FE
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5434.775813721657
+ 20
+15084.14912013432
+ 30
+0
+ 11
+5421.1924803883239
+ 21
+15084.14912013432
+ 31
+0
+  0
+SOLID
+  5
+104
+330
+FE
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbTrace
+ 10
+5388.2758137216579
+ 20
+15084.23245346765
+ 30
+0
+ 11
+5388.2758137216579
+ 21
+15084.06578680098
+ 31
+0
+ 12
+5387.7758137216579
+ 22
+15084.14912013432
+ 32
+0
+ 13
+5387.7758137216579
+ 23
+15084.14912013432
+ 33
+0
+  0
+SOLID
+  5
+105
+330
+FE
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbTrace
+ 10
+5434.775813721657
+ 20
+15084.23245346765
+ 30
+0
+ 11
+5434.775813721657
+ 21
+15084.06578680098
+ 31
+0
+ 12
+5435.275813721657
+ 22
+15084.14912013432
+ 32
+0
+ 13
+5435.275813721657
+ 23
+15084.14912013432
+ 33
+0
+  0
+MTEXT
+  5
+106
+330
+FE
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbMText
+ 10
+5411.525813721657
+ 20
+15084.14912013432
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+2
+ 41
+0
+ 46
+0
+ 71
+5
+ 72
+1
+  1
+\A1;47.50 [1.87]
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+POINT
+  5
+107
+330
+FE
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+0
+100
+AcDbPoint
+ 10
+5387.7758137216579
+ 20
+15109.403844451819
+ 30
+0
+ 50
+0
+  0
+POINT
+  5
+108
+330
+FE
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+0
+100
+AcDbPoint
+ 10
+5435.275813721657
+ 20
+15109.403844451819
+ 30
+0
+ 50
+0
+  0
+POINT
+  5
+109
+330
+FE
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+0
+100
+AcDbPoint
+ 10
+5435.275813721657
+ 20
+15084.14912013432
+ 30
+0
+ 50
+0
+  0
+ENDBLK
+  5
+10A
+330
+FE
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+10C
+330
+10B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D777777777
+ 70
+1
+ 10
+0
+ 20
+0
+ 30
+0
+  3
+*D777777777
+  0
+LINE
+  5
+10D
+330
+10B
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5428.775813721657
+ 20
+15098.903844451819
+ 30
+0
+ 11
+5428.775813721657
+ 21
+15089.372405650651
+ 31
+0
+  0
+LINE
+  5
+10E
+330
+10B
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5435.275813721657
+ 20
+15098.903844451819
+ 30
+0
+ 11
+5435.275813721657
+ 21
+15089.372405650651
+ 31
+0
+  0
+LINE
+  5
+10F
+330
+10B
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5429.275813721657
+ 20
+15089.872405650651
+ 30
+0
+ 11
+5434.775813721657
+ 21
+15089.872405650651
+ 31
+0
+  0
+LINE
+  5
+110
+330
+10B
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5435.275813721657
+ 20
+15089.872405650651
+ 30
+0
+ 11
+5435.775813721657
+ 21
+15089.872405650651
+ 31
+0
+  0
+SOLID
+  5
+111
+330
+10B
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbTrace
+ 10
+5429.275813721657
+ 20
+15089.955738983979
+ 30
+0
+ 11
+5429.275813721657
+ 21
+15089.78907231731
+ 31
+0
+ 12
+5428.775813721657
+ 22
+15089.872405650651
+ 32
+0
+ 13
+5428.775813721657
+ 23
+15089.872405650651
+ 33
+0
+  0
+SOLID
+  5
+112
+330
+10B
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbTrace
+ 10
+5434.775813721657
+ 20
+15089.955738983979
+ 30
+0
+ 11
+5434.775813721657
+ 21
+15089.78907231731
+ 31
+0
+ 12
+5435.275813721657
+ 22
+15089.872405650651
+ 32
+0
+ 13
+5435.275813721657
+ 23
+15089.872405650651
+ 33
+0
+  0
+MTEXT
+  5
+113
+330
+10B
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbMText
+ 10
+5444.60914705499
+ 20
+15089.872405650651
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+2
+ 41
+0
+ 46
+0
+ 71
+5
+ 72
+1
+  1
+\A1;6.50 [0.26]
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+POINT
+  5
+114
+330
+10B
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+0
+100
+AcDbPoint
+ 10
+5428.775813721657
+ 20
+15101.903844451819
+ 30
+0
+ 50
+0
+  0
+POINT
+  5
+115
+330
+10B
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+0
+100
+AcDbPoint
+ 10
+5435.275813721657
+ 20
+15101.903844451819
+ 30
+0
+ 50
+0
+  0
+POINT
+  5
+116
+330
+10B
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+0
+100
+AcDbPoint
+ 10
+5435.275813721657
+ 20
+15089.872405650651
+ 30
+0
+ 50
+0
+  0
+ENDBLK
+  5
+117
+330
+10B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+119
+330
+118
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D888888888
+ 70
+1
+ 10
+0
+ 20
+0
+ 30
+0
+  3
+*D888888888
+  0
+LINE
+  5
+11A
+330
+118
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5439.5645280207764
+ 20
+15095.20659871894
+ 30
+0
+ 11
+5439.0645280207773
+ 21
+15095.20659871894
+ 31
+0
+  0
+LINE
+  5
+11B
+330
+118
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5439.0645280207773
+ 20
+15095.20659871894
+ 30
+0
+ 11
+5431.9186392414913
+ 21
+15099.858081085291
+ 31
+0
+  0
+MTEXT
+  5
+11C
+330
+118
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbMText
+ 10
+5450.3978613541076
+ 20
+15095.20659871894
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+2
+ 41
+0
+ 46
+0
+ 71
+5
+ 72
+1
+  1
+\A1;∅6.50 [∅0.26]
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+SOLID
+  5
+11D
+330
+118
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbTrace
+ 10
+5431.9641006496358
+ 20
+15099.9279216524
+ 30
+0
+ 11
+5431.8731778333449
+ 21
+15099.788240518181
+ 31
+0
+ 12
+5431.4995958388481
+ 22
+15100.13084953416
+ 32
+0
+ 13
+5431.4995958388481
+ 23
+15100.13084953416
+ 33
+0
+  0
+LINE
+  5
+11E
+330
+118
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5428.6858137216559
+ 20
+15101.903844451819
+ 30
+0
+ 11
+5428.8658137216553
+ 21
+15101.903844451819
+ 31
+0
+  0
+LINE
+  5
+11F
+330
+118
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5428.775813721657
+ 20
+15101.813844451821
+ 30
+0
+ 11
+5428.775813721657
+ 21
+15101.993844451819
+ 31
+0
+  0
+POINT
+  5
+120
+330
+118
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+0
+100
+AcDbPoint
+ 10
+5431.4995958388481
+ 20
+15100.13084953416
+ 30
+0
+ 50
+0
+  0
+POINT
+  5
+121
+330
+118
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+0
+100
+AcDbPoint
+ 10
+5426.0520316044658
+ 20
+15103.676839369489
+ 30
+0
+ 50
+0
+  0
+ENDBLK
+  5
+122
+330
+118
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+124
+330
+123
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D999999999
+ 70
+1
+ 10
+0
+ 20
+0
+ 30
+0
+  3
+*D999999999
+  0
+LINE
+  5
+125
+330
+123
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5431.775813721657
+ 20
+15116.903844451819
+ 30
+0
+ 11
+5444.6309217737262
+ 21
+15116.903844451819
+ 31
+0
+  0
+LINE
+  5
+126
+330
+123
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5431.775813721657
+ 20
+15101.903844451819
+ 30
+0
+ 11
+5444.6309217737262
+ 21
+15101.903844451819
+ 31
+0
+  0
+LINE
+  5
+127
+330
+123
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5444.1309217737271
+ 20
+15116.403844451819
+ 30
+0
+ 11
+5444.1309217737271
+ 21
+15110.903844451819
+ 31
+0
+  0
+LINE
+  5
+128
+330
+123
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5444.1309217737271
+ 20
+15102.40384445183
+ 30
+0
+ 11
+5444.1309217737271
+ 21
+15107.903844451819
+ 31
+0
+  0
+SOLID
+  5
+129
+330
+123
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbTrace
+ 10
+5444.0475884403932
+ 20
+15116.403844451819
+ 30
+0
+ 11
+5444.2142551070583
+ 21
+15116.403844451819
+ 31
+0
+ 12
+5444.1309217737271
+ 22
+15116.903844451819
+ 32
+0
+ 13
+5444.1309217737271
+ 23
+15116.903844451819
+ 33
+0
+  0
+SOLID
+  5
+12A
+330
+123
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbTrace
+ 10
+5444.0475884403932
+ 20
+15102.40384445183
+ 30
+0
+ 11
+5444.2142551070583
+ 21
+15102.40384445183
+ 31
+0
+ 12
+5444.1309217737271
+ 22
+15101.903844451819
+ 32
+0
+ 13
+5444.1309217737271
+ 23
+15101.903844451819
+ 33
+0
+  0
+MTEXT
+  5
+12B
+330
+123
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbMText
+ 10
+5444.1309217737225
+ 20
+15109.40384445183
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+2
+ 41
+0
+ 46
+0
+ 71
+5
+ 72
+1
+  1
+\A1;15.00 [0.59]
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+POINT
+  5
+12C
+330
+123
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+0
+100
+AcDbPoint
+ 10
+5428.775813721657
+ 20
+15116.903844451819
+ 30
+0
+ 50
+0
+  0
+POINT
+  5
+12D
+330
+123
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+0
+100
+AcDbPoint
+ 10
+5428.775813721657
+ 20
+15101.903844451819
+ 30
+0
+ 50
+0
+  0
+POINT
+  5
+12E
+330
+123
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+0
+100
+AcDbPoint
+ 10
+5444.1309217737271
+ 20
+15101.903844451819
+ 30
+0
+ 50
+0
+  0
+ENDBLK
+  5
+12F
+330
+123
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+131
+330
+130
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D101010101010101010
+ 70
+1
+ 10
+0
+ 20
+0
+ 30
+0
+  3
+*D101010101010101010
+  0
+LINE
+  5
+132
+330
+130
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5413.3820671851
+ 20
+15094.212291877129
+ 30
+0
+ 11
+5412.8820671851008
+ 21
+15094.212291877129
+ 31
+0
+  0
+LINE
+  5
+133
+330
+130
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5412.8820671851008
+ 20
+15094.212291877129
+ 30
+0
+ 11
+5407.3475368103864
+ 21
+15090.24776619072
+ 31
+0
+  0
+MTEXT
+  5
+134
+330
+130
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbMText
+ 10
+5424.715400518432
+ 20
+15094.212291877129
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+2
+ 41
+0
+ 46
+0
+ 71
+5
+ 72
+1
+  1
+\A1;∅15.49 [∅0.61]
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+SOLID
+  5
+135
+330
+130
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbTrace
+ 10
+5407.299008832696
+ 20
+15090.3155118904
+ 30
+0
+ 11
+5407.3960647880758
+ 21
+15090.180020491031
+ 31
+0
+ 12
+5406.9410626122772
+ 22
+15089.956598324579
+ 32
+0
+ 13
+5406.9410626122772
+ 23
+15089.956598324579
+ 33
+0
+  0
+LINE
+  5
+136
+330
+130
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5400.5531513867518
+ 20
+15085.445243406661
+ 30
+0
+ 11
+5400.733151386753
+ 21
+15085.445243406661
+ 31
+0
+  0
+LINE
+  5
+137
+330
+130
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5400.6431513867547
+ 20
+15085.355243406661
+ 30
+0
+ 11
+5400.6431513867528
+ 21
+15085.535243406661
+ 31
+0
+  0
+POINT
+  5
+138
+330
+130
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+0
+100
+AcDbPoint
+ 10
+5406.9410626122772
+ 20
+15089.956598324579
+ 30
+0
+ 50
+0
+  0
+POINT
+  5
+139
+330
+130
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+0
+100
+AcDbPoint
+ 10
+5394.3452401612321
+ 20
+15080.93388848874
+ 30
+0
+ 50
+0
+  0
+ENDBLK
+  5
+13A
+330
+130
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+13C
+330
+13B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D111111111111111111
+ 70
+1
+ 10
+0
+ 20
+0
+ 30
+0
+  3
+*D111111111111111111
+  0
+LINE
+  5
+13D
+330
+13B
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5413.586156667815
+ 20
+15088.91102378761
+ 30
+0
+ 11
+5413.0861566678022
+ 21
+15088.91102378761
+ 31
+0
+  0
+LINE
+  5
+13E
+330
+13B
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5413.0861566678022
+ 20
+15088.91102378761
+ 30
+0
+ 11
+5405.4312878248847
+ 21
+15086.778894639119
+ 31
+0
+  0
+MTEXT
+  5
+13F
+330
+13B
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbMText
+ 10
+5424.5861566678159
+ 20
+15088.91102378761
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+2
+ 41
+0
+ 46
+0
+ 71
+5
+ 72
+1
+  1
+\A1;∅8.94 [∅0.35]
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+SOLID
+  5
+140
+330
+13B
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbTrace
+ 10
+5405.4089279337877
+ 20
+15086.85917215599
+ 30
+0
+ 11
+5405.4536477159818
+ 21
+15086.698617122251
+ 31
+0
+ 12
+5404.9496227236741
+ 22
+15086.64473529255
+ 32
+0
+ 13
+5404.9496227236741
+ 23
+15086.64473529255
+ 33
+0
+  0
+LINE
+  5
+141
+330
+13B
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5400.5531513867572
+ 20
+15085.445243406661
+ 30
+0
+ 11
+5400.7331513867584
+ 21
+15085.445243406661
+ 31
+0
+  0
+LINE
+  5
+142
+330
+13B
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5400.6431513867547
+ 20
+15085.355243406661
+ 30
+0
+ 11
+5400.6431513867556
+ 21
+15085.535243406661
+ 31
+0
+  0
+POINT
+  5
+143
+330
+13B
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+0
+100
+AcDbPoint
+ 10
+5404.9496227236741
+ 20
+15086.64473529255
+ 30
+0
+ 50
+0
+  0
+POINT
+  5
+144
+330
+13B
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+0
+100
+AcDbPoint
+ 10
+5396.3366800498388
+ 20
+15084.245751520781
+ 30
+0
+ 50
+0
+  0
+ENDBLK
+  5
+145
+330
+13B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+147
+330
+146
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D121212121212121212
+ 70
+1
+ 10
+0
+ 20
+0
+ 30
+0
+  3
+*D121212121212121212
+  0
+LINE
+  5
+148
+330
+146
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5411.5335441839989
+ 20
+15079.573668788211
+ 30
+0
+ 11
+5411.033544183997
+ 21
+15079.573668788211
+ 31
+0
+  0
+LINE
+  5
+149
+330
+146
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5411.033544183997
+ 20
+15079.573668788211
+ 30
+0
+ 11
+5407.8230549002355
+ 21
+15081.387905050409
+ 31
+0
+  0
+MTEXT
+  5
+14A
+330
+146
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbMText
+ 10
+5422.8668775173319
+ 20
+15079.573668788211
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+2
+ 41
+0
+ 46
+0
+ 71
+5
+ 72
+1
+  1
+\A1;∅15.49 [∅0.61]
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+SOLID
+  5
+14B
+330
+146
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbTrace
+ 10
+5407.8640530243656
+ 20
+15081.460455710379
+ 30
+0
+ 11
+5407.7820567761082
+ 21
+15081.315354390439
+ 31
+0
+ 12
+5407.3877509404037
+ 22
+15081.633893795181
+ 32
+0
+ 13
+5407.3877509404037
+ 23
+15081.633893795181
+ 33
+0
+  0
+LINE
+  5
+14C
+330
+146
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5400.5531513867563
+ 20
+15085.445243406661
+ 30
+0
+ 11
+5400.7331513867557
+ 21
+15085.445243406661
+ 31
+0
+  0
+LINE
+  5
+14D
+330
+146
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5400.6431513867556
+ 20
+15085.355243406661
+ 30
+0
+ 11
+5400.6431513867556
+ 21
+15085.535243406661
+ 31
+0
+  0
+POINT
+  5
+14E
+330
+146
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+0
+100
+AcDbPoint
+ 10
+5407.3877509404037
+ 20
+15081.633893795181
+ 30
+0
+ 50
+0
+  0
+POINT
+  5
+14F
+330
+146
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+0
+100
+AcDbPoint
+ 10
+5393.8985518331074
+ 20
+15089.25659301813
+ 30
+0
+ 50
+0
+  0
+ENDBLK
+  5
+150
+330
+146
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+152
+330
+151
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D131313131313131313
+ 70
+1
+ 10
+0
+ 20
+0
+ 30
+0
+  3
+*D131313131313131313
+  0
+LINE
+  5
+153
+330
+151
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5409.3483762567739
+ 20
+15074.90639484944
+ 30
+0
+ 11
+5408.8483762567657
+ 21
+15074.90639484944
+ 31
+0
+  0
+LINE
+  5
+154
+330
+151
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5408.8483762567657
+ 20
+15074.90639484944
+ 30
+0
+ 11
+5403.6966158512878
+ 21
+15081.523352163411
+ 31
+0
+  0
+MTEXT
+  5
+155
+330
+151
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbMText
+ 10
+5420.3483762567766
+ 20
+15074.90639484944
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+2
+ 41
+0
+ 46
+0
+ 71
+5
+ 72
+1
+  1
+\A1;∅8.94 [∅0.35]
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+  0
+SOLID
+  5
+156
+330
+151
+100
+AcDbEntity
+  8
+0
+ 62
+0
+100
+AcDbTrace
+ 10
+5403.7623699697233
+ 20
+15081.574546307151
+ 30
+0
+ 11
+5403.6308617328523
+ 21
+15081.472158019669
+ 31
+0
+ 12
+5403.3894509888487
+ 22
+15081.91787687402
+ 32
+0
+ 13
+5403.3894509888487
+ 23
+15081.91787687402
+ 33
+0
+  0
+LINE
+  5
+157
+330
+151
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5400.5531513867554
+ 20
+15085.445243406661
+ 30
+0
+ 11
+5400.7331513867539
+ 21
+15085.445243406661
+ 31
+0
+  0
+LINE
+  5
+158
+330
+151
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+100
+AcDbLine
+ 10
+5400.6431513867556
+ 20
+15085.355243406661
+ 30
+0
+ 11
+5400.6431513867537
+ 21
+15085.53524340665
+ 31
+0
+  0
+POINT
+  5
+159
+330
+151
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+0
+100
+AcDbPoint
+ 10
+5403.3894509888487
+ 20
+15081.91787687402
+ 30
+0
+ 50
+0
+  0
+POINT
+  5
+15A
+330
+151
+100
+AcDbEntity
+  8
+Defpoints
+ 62
+0
+100
+AcDbPoint
+ 10
+5397.8968517846606
+ 20
+15088.97260993929
+ 30
+0
+ 50
+0
+  0
+ENDBLK
+  5
+15B
+330
+151
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+CIRCLE
+  5
+EA
+330
+E6
+100
+AcDbEntity
+  8
+LaserCutting
+100
+AcDbCircle
+ 10
+5400.6431513867556
+ 20
+15085.445243406661
+ 30
+0
+ 40
+7.7469999999999972
+  0
+MTEXT
+  5
+EB
+330
+E6
+100
+AcDbEntity
+  8
+LaserCutting
+100
+AcDbMText
+ 10
+5382.7803303225182
+ 20
+15073.976244542921
+ 30
+0
+ 11
+1
+ 21
+0
+ 31
+0
+ 40
+1.9999999999999989
+ 41
+89.304302255707626
+ 46
+20.56246836276841
+ 71
+1
+ 72
+1
+  1
+SIZE : 0.8 X OD 15.5 X ID 8.95\PQTY : 520 NOS\PMAT : SS 316\PREV : 2
+  7
+Standard
+ 73
+1
+ 90
+0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+73
+1070
+1
+1070
+44
+1040
+1
+1070
+74
+1070
+0
+1000
+MTEXTEND
+1000
+ACAD_MTEXT_DEFINED_HEIGHT_BEGIN
+1070
+46
+1040
+20.56246836276841
+1000
+ACAD_MTEXT_DEFINED_HEIGHT_END
+  0
+CIRCLE
+  5
+EC
+330
+E6
+100
+AcDbEntity
+  8
+LaserCutting
+100
+AcDbCircle
+ 10
+5400.6431513867556
+ 20
+15085.445243406661
+ 30
+0
+ 40
+4.53
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+C
+330
+0
+100
+AcDbDictionary
+280
+0
+281
+1
+  3
+ACAD_COLOR
+350
+162
+  3
+ACAD_GROUP
+350
+D
+  3
+ACAD_LAYOUT
+350
+1A
+  3
+ACAD_MATERIAL
+350
+166
+  3
+ACAD_MLEADERSTYLE
+350
+167
+  3
+ACAD_MLINESTYLE
+350
+17
+  3
+ACAD_PLOTSETTINGS
+350
+19
+  3
+ACAD_PLOTSTYLENAME
+350
+E
+  3
+ACAD_SCALELIST
+350
+169
+  3
+ACAD_TABLESTYLE
+350
+18B
+  3
+ACAD_VISUALSTYLE
+350
+18F
+  3
+ACDB_RECOMPOSE_DATA
+350
+190
+  3
+AcDbVariableDictionary
+350
+191
+  3
+ACAD_FIELDLIST
+350
+19C
+  3
+ACAD_IMAGE_DICT
+350
+19D
+  0
+DICTIONARY
+  5
+27
+330
+10
+100
+AcDbDictionary
+280
+1
+281
+1
+  3
+ADSK_XREC_LAYER_RECONCILED
+360
+28
+  0
+DICTIONARY
+  5
+2E
+330
+2D
+100
+AcDbDictionary
+280
+1
+281
+1
+  3
+ACAD_SORTENTS
+360
+2F
+  0
+DICTIONARY
+  5
+E7
+330
+E6
+100
+AcDbDictionary
+280
+1
+281
+1
+  3
+ACAD_SORTENTS
+360
+E8
+  0
+DICTIONARY
+  5
+164
+330
+22
+100
+AcDbDictionary
+280
+1
+281
+1
+  3
+ADSK_XREC_LAYOUTTHUMBNAIL
+360
+165
+  0
+DICTIONARY
+  5
+18D
+330
+18C
+100
+AcDbDictionary
+280
+1
+281
+1
+  3
+ACAD_ROUNDTRIP_2008_TABLESTYLE_CELLSTYLEMAP
+360
+18E
+  0
+DICTIONARY
+  5
+162
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+280
+0
+281
+1
+  0
+DICTIONARY
+  5
+D
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+280
+0
+281
+1
+  0
+DICTIONARY
+  5
+1A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+280
+0
+281
+1
+  3
+Layout1
+350
+1E
+  3
+Layout2
+350
+163
+  3
+Model
+350
+22
+  0
+DICTIONARY
+  5
+166
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+280
+0
+281
+1
+  0
+DICTIONARY
+  5
+167
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+280
+0
+281
+1
+  0
+DICTIONARY
+  5
+17
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+280
+0
+281
+1
+  3
+STANDARD
+350
+168
+  0
+DICTIONARY
+  5
+19
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+280
+0
+281
+1
+  0
+ACDBDICTIONARYWDFLT
+  5
+E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+280
+0
+281
+1
+  3
+Normal
+350
+F
+100
+AcDbDictionaryWithDefault
+340
+F
+  0
+ACDBPLACEHOLDER
+  5
+F
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+  0
+DICTIONARY
+  5
+169
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+280
+0
+281
+1
+  3
+A0
+350
+16A
+  3
+A1
+350
+16B
+  3
+A2
+350
+16C
+  3
+A3
+350
+16D
+  3
+A4
+350
+16E
+  3
+A5
+350
+16F
+  3
+A6
+350
+170
+  3
+A7
+350
+171
+  3
+A8
+350
+172
+  3
+A9
+350
+173
+  3
+B0
+350
+174
+  3
+B1
+350
+175
+  3
+B2
+350
+176
+  3
+B3
+350
+177
+  3
+B4
+350
+178
+  3
+B5
+350
+179
+  3
+B6
+350
+17A
+  3
+B7
+350
+17B
+  3
+B8
+350
+17C
+  3
+B9
+350
+17D
+  3
+C0
+350
+17E
+  3
+C1
+350
+17F
+  3
+C2
+350
+180
+  3
+C3
+350
+181
+  3
+C4
+350
+182
+  3
+C5
+350
+183
+  3
+C6
+350
+184
+  3
+C7
+350
+185
+  3
+C8
+350
+186
+  3
+C9
+350
+187
+  3
+D0
+350
+188
+  3
+D1
+350
+189
+  3
+D2
+350
+18A
+  0
+DICTIONARY
+  5
+18B
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+280
+0
+281
+1
+  3
+Standard
+350
+18C
+  0
+DICTIONARY
+  5
+18F
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+280
+0
+281
+1
+  0
+XRECORD
+  5
+190
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbXrecord
+280
+1
+ 90
+1
+330
+18C
+  0
+DICTIONARY
+  5
+191
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+280
+0
+281
+1
+  3
+CMLEADERSTYLE
+350
+192
+  3
+CTABLESTYLE
+350
+193
+  3
+DIMASSOC
+350
+194
+  3
+HIDETEXT
+350
+195
+  3
+MSLTSCALE
+350
+196
+  3
+PROJECTNAME
+350
+197
+  3
+XCLIPFRAME
+350
+198
+  3
+CANNOSCALE
+350
+199
+  3
+ANNOALLVISIBLE
+350
+19A
+  3
+ANNOTATIVEDWG
+350
+19B
+  0
+FIELDLIST
+  5
+19C
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbIdSet
+100
+AcDbFieldList
+  0
+DICTIONARY
+  5
+19D
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+280
+0
+281
+1
+  0
+XRECORD
+  5
+28
+102
+{ACAD_REACTORS
+330
+27
+102
+}
+330
+27
+100
+AcDbXrecord
+280
+1
+290
+1
+  0
+SORTENTSTABLE
+  5
+2F
+102
+{ACAD_REACTORS
+330
+2E
+102
+}
+330
+2E
+100
+AcDbSortentsTable
+330
+2D
+  0
+SORTENTSTABLE
+  5
+E8
+102
+{ACAD_REACTORS
+330
+E7
+102
+}
+330
+E7
+100
+AcDbSortentsTable
+330
+E6
+  0
+XRECORD
+  5
+165
+102
+{ACAD_REACTORS
+330
+164
+102
+}
+330
+164
+100
+AcDbXrecord
+280
+1
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+310
+9090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090909090
+  0
+CELLSTYLEMAP
+  5
+18E
+102
+{ACAD_REACTORS
+330
+18D
+102
+}
+330
+18D
+100
+AcDbCellStyleMap
+ 90
+3
+300
+CELLSTYLE
+  1
+TABLEFORMAT_BEGIN
+ 90
+5
+170
+1
+ 91
+0
+ 92
+32768
+ 62
+257
+ 93
+1
+300
+CONTENTFORMAT
+  1
+CONTENTFORMAT_BEGIN
+ 90
+0
+ 91
+0
+ 92
+4
+ 93
+0
+300
+
+ 40
+0
+140
+1
+ 94
+5
+ 62
+18
+340
+11
+144
+0.25
+309
+CONTENTFORMAT_END
+171
+1
+301
+MARGIN
+  1
+CELLMARGIN_BEGIN
+ 40
+0.06
+ 40
+0.06
+ 40
+0.06
+ 40
+0.06
+ 40
+0.06
+ 40
+0.06
+309
+CELLMARGIN_END
+ 94
+6
+ 95
+1
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+0
+ 91
+1
+ 62
+0
+ 92
+-2
+340
+0
+ 93
+0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+2
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+0
+ 91
+1
+ 62
+0
+ 92
+-2
+340
+0
+ 93
+0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+4
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+0
+ 91
+1
+ 62
+0
+ 92
+-2
+340
+0
+ 93
+0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+8
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+0
+ 91
+1
+ 62
+0
+ 92
+-2
+340
+0
+ 93
+0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+16
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+0
+ 91
+1
+ 62
+0
+ 92
+-2
+340
+0
+ 93
+0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+32
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+0
+ 91
+1
+ 62
+0
+ 92
+-2
+340
+0
+ 93
+0
+ 40
+0.045
+309
+GRIDFORMAT_END
+309
+TABLEFORMAT_END
+  1
+CELLSTYLE_BEGIN
+ 90
+1
+ 91
+1
+300
+_TITLE
+309
+CELLSTYLE_END
+300
+CELLSTYLE
+  1
+TABLEFORMAT_BEGIN
+ 90
+5
+170
+1
+ 91
+0
+ 92
+0
+ 62
+257
+ 93
+1
+300
+CONTENTFORMAT
+  1
+CONTENTFORMAT_BEGIN
+ 90
+0
+ 91
+0
+ 92
+4
+ 93
+0
+300
+
+ 40
+0
+140
+1
+ 94
+5
+ 62
+18
+340
+11
+144
+0.18
+309
+CONTENTFORMAT_END
+171
+1
+301
+MARGIN
+  1
+CELLMARGIN_BEGIN
+ 40
+0.06
+ 40
+0.06
+ 40
+0.06
+ 40
+0.06
+ 40
+0.06
+ 40
+0.06
+309
+CELLMARGIN_END
+ 94
+6
+ 95
+1
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+0
+ 91
+1
+ 62
+0
+ 92
+-2
+340
+0
+ 93
+0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+2
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+0
+ 91
+1
+ 62
+0
+ 92
+-2
+340
+0
+ 93
+0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+4
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+0
+ 91
+1
+ 62
+0
+ 92
+-2
+340
+0
+ 93
+0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+8
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+0
+ 91
+1
+ 62
+0
+ 92
+-2
+340
+0
+ 93
+0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+16
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+0
+ 91
+1
+ 62
+0
+ 92
+-2
+340
+0
+ 93
+0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+32
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+0
+ 91
+1
+ 62
+0
+ 92
+-2
+340
+0
+ 93
+0
+ 40
+0.045
+309
+GRIDFORMAT_END
+309
+TABLEFORMAT_END
+  1
+CELLSTYLE_BEGIN
+ 90
+2
+ 91
+1
+300
+_HEADER
+309
+CELLSTYLE_END
+300
+CELLSTYLE
+  1
+TABLEFORMAT_BEGIN
+ 90
+5
+170
+1
+ 91
+0
+ 92
+0
+ 62
+257
+ 93
+1
+300
+CONTENTFORMAT
+  1
+CONTENTFORMAT_BEGIN
+ 90
+0
+ 91
+0
+ 92
+4
+ 93
+0
+300
+
+ 40
+0
+140
+1
+ 94
+2
+ 62
+18
+340
+11
+144
+0.18
+309
+CONTENTFORMAT_END
+171
+1
+301
+MARGIN
+  1
+CELLMARGIN_BEGIN
+ 40
+0.06
+ 40
+0.06
+ 40
+0.06
+ 40
+0.06
+ 40
+0.06
+ 40
+0.06
+309
+CELLMARGIN_END
+ 94
+6
+ 95
+1
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+0
+ 91
+1
+ 62
+0
+ 92
+-2
+340
+0
+ 93
+0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+2
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+0
+ 91
+1
+ 62
+0
+ 92
+-2
+340
+0
+ 93
+0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+4
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+0
+ 91
+1
+ 62
+0
+ 92
+-2
+340
+0
+ 93
+0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+8
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+0
+ 91
+1
+ 62
+0
+ 92
+-2
+340
+0
+ 93
+0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+16
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+0
+ 91
+1
+ 62
+0
+ 92
+-2
+340
+0
+ 93
+0
+ 40
+0.045
+309
+GRIDFORMAT_END
+ 95
+32
+302
+GRIDFORMAT
+  1
+GRIDFORMAT_BEGIN
+ 90
+0
+ 91
+1
+ 62
+0
+ 92
+-2
+340
+0
+ 93
+0
+ 40
+0.045
+309
+GRIDFORMAT_END
+309
+TABLEFORMAT_END
+  1
+CELLSTYLE_BEGIN
+ 90
+3
+ 91
+2
+300
+_DATA
+309
+CELLSTYLE_END
+  0
+LAYOUT
+  5
+1E
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+None
+  4
+
+  6
+
+ 40
+0
+ 41
+0
+ 42
+0
+ 43
+0
+ 44
+0
+ 45
+0
+ 46
+0
+ 47
+0
+ 48
+0
+ 49
+0
+140
+0
+141
+0
+142
+1
+143
+1
+ 70
+688
+ 72
+0
+ 73
+0
+ 74
+5
+  7
+
+ 75
+16
+ 76
+0
+ 77
+2
+ 78
+300
+147
+1
+148
+0
+149
+0
+100
+AcDbLayout
+  1
+Layout1
+ 70
+1
+ 71
+1
+ 10
+0
+ 20
+0
+ 11
+12
+ 21
+9
+ 12
+0
+ 22
+0
+ 32
+0
+ 14
+0
+ 24
+0
+ 34
+0
+ 15
+0
+ 25
+0
+ 35
+0
+146
+0
+ 13
+0
+ 23
+0
+ 33
+0
+ 16
+1
+ 26
+0
+ 36
+0
+ 17
+0
+ 27
+1
+ 37
+0
+ 76
+0
+330
+1B
+  0
+LAYOUT
+  5
+163
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+None
+  4
+
+  6
+
+ 40
+0
+ 41
+0
+ 42
+0
+ 43
+0
+ 44
+0
+ 45
+0
+ 46
+0
+ 47
+0
+ 48
+0
+ 49
+0
+140
+0
+141
+0
+142
+1
+143
+1
+ 70
+688
+ 72
+0
+ 73
+0
+ 74
+5
+  7
+
+ 75
+16
+ 76
+0
+ 77
+2
+ 78
+300
+147
+1
+148
+0
+149
+0
+100
+AcDbLayout
+  1
+Layout2
+ 70
+1
+ 71
+2
+ 10
+0
+ 20
+0
+ 11
+12
+ 21
+9
+ 12
+0
+ 22
+0
+ 32
+0
+ 14
+0
+ 24
+0
+ 34
+0
+ 15
+0
+ 25
+0
+ 35
+0
+146
+0
+ 13
+0
+ 23
+0
+ 33
+0
+ 16
+1
+ 26
+0
+ 36
+0
+ 17
+0
+ 27
+1
+ 37
+0
+ 76
+0
+330
+EE
+  0
+LAYOUT
+  5
+22
+102
+{ACAD_XDICTIONARY
+360
+164
+102
+}
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+none_device
+  4
+ANSI_A_(8.50_x_11.00_Inches)
+  6
+
+ 40
+6.3499999046325666
+ 41
+19.04999923706055
+ 42
+6.350006103515625
+ 43
+19.04998779296875
+ 44
+215.8999938964844
+ 45
+279.39999389648438
+ 46
+0
+ 47
+0
+ 48
+0
+ 49
+0
+140
+0
+141
+0
+142
+1
+143
+2.5848954647083731
+ 70
+11952
+ 72
+0
+ 73
+1
+ 74
+0
+  7
+
+ 75
+0
+ 76
+0
+ 77
+2
+ 78
+300
+147
+0.38686283977554181
+148
+0
+149
+0
+100
+AcDbLayout
+  1
+Model
+ 70
+1
+ 71
+0
+ 10
+0
+ 20
+0
+ 11
+12
+ 21
+9
+ 12
+0
+ 22
+0
+ 32
+0
+ 14
+0
+ 24
+0
+ 34
+0
+ 15
+0
+ 25
+0
+ 35
+0
+146
+0
+ 13
+0
+ 23
+0
+ 33
+0
+ 16
+1
+ 26
+0
+ 36
+0
+ 17
+0
+ 27
+1
+ 37
+0
+ 76
+0
+330
+E6
+331
+161
+  0
+MLINESTYLE
+  5
+168
+102
+{ACAD_REACTORS
+330
+17
+102
+}
+330
+17
+100
+AcDbMlineStyle
+  2
+STANDARD
+ 70
+0
+  3
+
+ 51
+90
+ 52
+90
+ 71
+2
+ 49
+0.5
+  6
+ByLayer
+ 49
+-0.5
+  6
+ByLayer
+  0
+SCALE
+  5
+16A
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+1:1
+140
+1
+141
+1
+290
+1
+  0
+SCALE
+  5
+16B
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+1:2
+140
+1
+141
+2
+290
+0
+  0
+SCALE
+  5
+16C
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+1:4
+140
+1
+141
+4
+290
+0
+  0
+SCALE
+  5
+16D
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+1:5
+140
+1
+141
+5
+290
+0
+  0
+SCALE
+  5
+16E
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+1:8
+140
+1
+141
+8
+290
+0
+  0
+SCALE
+  5
+16F
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+1:10
+140
+1
+141
+10
+290
+0
+  0
+SCALE
+  5
+170
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+1:16
+140
+1
+141
+16
+290
+0
+  0
+SCALE
+  5
+171
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+1:20
+140
+1
+141
+20
+290
+0
+  0
+SCALE
+  5
+172
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+1:30
+140
+1
+141
+30
+290
+0
+  0
+SCALE
+  5
+173
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+1:40
+140
+1
+141
+40
+290
+0
+  0
+SCALE
+  5
+174
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+1:50
+140
+1
+141
+50
+290
+0
+  0
+SCALE
+  5
+175
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+1:100
+140
+1
+141
+100
+290
+0
+  0
+SCALE
+  5
+176
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+2:1
+140
+2
+141
+1
+290
+0
+  0
+SCALE
+  5
+177
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+4:1
+140
+4
+141
+1
+290
+0
+  0
+SCALE
+  5
+178
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+8:1
+140
+8
+141
+1
+290
+0
+  0
+SCALE
+  5
+179
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+10:1
+140
+10
+141
+1
+290
+0
+  0
+SCALE
+  5
+17A
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+100:1
+140
+100
+141
+1
+290
+0
+  0
+SCALE
+  5
+17B
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+1/128" = 1'-0"
+140
+0.0078125
+141
+12
+290
+0
+  0
+SCALE
+  5
+17C
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+1/64" = 1'-0"
+140
+0.015625
+141
+12
+290
+0
+  0
+SCALE
+  5
+17D
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+1/32" = 1'-0"
+140
+0.03125
+141
+12
+290
+0
+  0
+SCALE
+  5
+17E
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+1/16" = 1'-0"
+140
+0.0625
+141
+12
+290
+0
+  0
+SCALE
+  5
+17F
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+3/32" = 1'-0"
+140
+0.09375
+141
+12
+290
+0
+  0
+SCALE
+  5
+180
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+1/8" = 1'-0"
+140
+0.125
+141
+12
+290
+0
+  0
+SCALE
+  5
+181
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+3/16" = 1'-0"
+140
+0.1875
+141
+12
+290
+0
+  0
+SCALE
+  5
+182
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+1/4" = 1'-0"
+140
+0.25
+141
+12
+290
+0
+  0
+SCALE
+  5
+183
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+3/8" = 1'-0"
+140
+0.375
+141
+12
+290
+0
+  0
+SCALE
+  5
+184
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+1/2" = 1'-0"
+140
+0.5
+141
+12
+290
+0
+  0
+SCALE
+  5
+185
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+3/4" = 1'-0"
+140
+0.75
+141
+12
+290
+0
+  0
+SCALE
+  5
+186
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+1" = 1'-0"
+140
+1
+141
+12
+290
+0
+  0
+SCALE
+  5
+187
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+1-1/2" = 1'-0"
+140
+1.5
+141
+12
+290
+0
+  0
+SCALE
+  5
+188
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+3" = 1'-0"
+140
+3
+141
+12
+290
+0
+  0
+SCALE
+  5
+189
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+6" = 1'-0"
+140
+6
+141
+12
+290
+0
+  0
+SCALE
+  5
+18A
+102
+{ACAD_REACTORS
+330
+169
+102
+}
+330
+169
+100
+AcDbScale
+ 70
+0
+300
+1'-0" = 1'-0"
+140
+12
+141
+12
+290
+0
+  0
+TABLESTYLE
+  5
+18C
+102
+{ACAD_XDICTIONARY
+360
+18D
+102
+}
+102
+{ACAD_REACTORS
+330
+18B
+102
+}
+330
+18B
+100
+AcDbTableStyle
+  3
+Standard
+ 70
+0
+ 71
+0
+ 40
+0.06
+ 41
+0.06
+280
+0
+281
+0
+  7
+Standard
+140
+0.18
+170
+2
+ 62
+18
+283
+0
+ 90
+4
+ 91
+0
+274
+-2
+284
+1
+ 64
+0
+275
+-2
+285
+1
+ 65
+0
+276
+-2
+286
+1
+ 66
+0
+277
+-2
+287
+1
+ 67
+0
+278
+-2
+288
+1
+ 68
+0
+279
+-2
+289
+1
+ 69
+0
+  7
+Standard
+140
+0.25
+170
+5
+ 62
+18
+283
+0
+ 90
+4
+ 91
+0
+274
+-2
+284
+1
+ 64
+0
+275
+-2
+285
+1
+ 65
+0
+276
+-2
+286
+1
+ 66
+0
+277
+-2
+287
+1
+ 67
+0
+278
+-2
+288
+1
+ 68
+0
+279
+-2
+289
+1
+ 69
+0
+  7
+Standard
+140
+0.18
+170
+5
+ 62
+18
+283
+0
+ 90
+4
+ 91
+0
+274
+-2
+284
+1
+ 64
+0
+275
+-2
+285
+1
+ 65
+0
+276
+-2
+286
+1
+ 66
+0
+277
+-2
+287
+1
+ 67
+0
+278
+-2
+288
+1
+ 68
+0
+279
+-2
+289
+1
+ 69
+0
+  0
+DICTIONARYVAR
+  5
+192
+102
+{ACAD_REACTORS
+330
+191
+102
+}
+330
+191
+100
+DictionaryVariables
+280
+0
+  1
+STANDARD
+  0
+DICTIONARYVAR
+  5
+193
+102
+{ACAD_REACTORS
+330
+191
+102
+}
+330
+191
+100
+DictionaryVariables
+280
+0
+  1
+STANDARD
+  0
+DICTIONARYVAR
+  5
+194
+102
+{ACAD_REACTORS
+330
+191
+102
+}
+330
+191
+100
+DictionaryVariables
+280
+0
+  1
+2
+  0
+DICTIONARYVAR
+  5
+195
+102
+{ACAD_REACTORS
+330
+191
+102
+}
+330
+191
+100
+DictionaryVariables
+280
+0
+  1
+1
+  0
+DICTIONARYVAR
+  5
+196
+102
+{ACAD_REACTORS
+330
+191
+102
+}
+330
+191
+100
+DictionaryVariables
+280
+0
+  1
+0
+  0
+DICTIONARYVAR
+  5
+197
+102
+{ACAD_REACTORS
+330
+191
+102
+}
+330
+191
+100
+DictionaryVariables
+280
+0
+  1
+
+  0
+DICTIONARYVAR
+  5
+198
+102
+{ACAD_REACTORS
+330
+191
+102
+}
+330
+191
+100
+DictionaryVariables
+280
+0
+  1
+1
+  0
+DICTIONARYVAR
+  5
+199
+102
+{ACAD_REACTORS
+330
+191
+102
+}
+330
+191
+100
+DictionaryVariables
+280
+0
+  1
+1:1
+  0
+DICTIONARYVAR
+  5
+19A
+102
+{ACAD_REACTORS
+330
+191
+102
+}
+330
+191
+100
+DictionaryVariables
+280
+0
+  1
+1
+  0
+DICTIONARYVAR
+  5
+19B
+102
+{ACAD_REACTORS
+330
+191
+102
+}
+330
+191
+100
+DictionaryVariables
+280
+0
+  1
+0
+  0
+ENDSEC
+999
+Created By CadLib version 4.0.36.72
+999
+CadLib website: www.woutware.com
+  0
+EOF
