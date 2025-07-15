@@ -1,6 +1,6 @@
 /** @format */
 
-var mysql = require("mysql2");
+let mysql = require("mysql2");
 require("dotenv").config();
 
 const dbHost = process.env.DB_HOST;
@@ -14,7 +14,7 @@ const dbDatabase4 = process.env.DB_DATABASE_4; //machine_data
 const dbDatabase5 = process.env.DB_DATABASE_5; //magod_sales
 const dbDatabase6 = process.env.DB_DATABASE_6; //magod_mtrl
 
-var misConn = mysql.createConnection({
+let misConn = mysql.createConnection({
   host: dbHost,
   user: dbUser,
   port: dbPort,
@@ -23,7 +23,7 @@ var misConn = mysql.createConnection({
   multipleStatements: true,
 });
 
-var setupConn = mysql.createConnection({
+let setupConn = mysql.createConnection({
   host: dbHost,
   user: dbUser,
   port: dbPort,
@@ -31,7 +31,7 @@ var setupConn = mysql.createConnection({
   database: dbDatabase2,
 });
 
-var qtnConn = mysql.createConnection({
+let qtnConn = mysql.createConnection({
   host: dbHost,
   user: dbUser,
   port: dbPort,
@@ -39,7 +39,7 @@ var qtnConn = mysql.createConnection({
   database: dbDatabase3,
 });
 
-var mchConn = mysql.createConnection({
+let mchConn = mysql.createConnection({
   host: dbHost,
   user: dbUser,
   port: dbPort,
@@ -47,7 +47,7 @@ var mchConn = mysql.createConnection({
   database: dbDatabase4,
 });
 
-var slsConn = mysql.createConnection({
+let slsConn = mysql.createConnection({
   host: dbHost,
   user: dbUser,
   port: dbPort,
@@ -55,7 +55,7 @@ var slsConn = mysql.createConnection({
   database: dbDatabase5,
 });
 
-var mtrlConn = mysql.createConnection({
+let mtrlConn = mysql.createConnection({
   host: dbHost,
   user: dbUser,
   port: dbPort,
